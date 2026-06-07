@@ -1,0 +1,31 @@
+team_abbr,stadium_name,capacity,opened,is_new,is_renovated,renovation_year,notes
+ARI,Chase Field,48633,1998,0,0,,
+ATH,Sutter Health Park,14014,2025,1,0,,existing Minor League park; Athletics began using the park in 2025
+ATL,Truist Park,41500,2017,1,0,,replaced Turner Field
+BAL,Oriole Park,45971,1992,0,1,2011,"seat replacement, suite renovation, capacity reduced"
+BOS,Fenway Park,37673,1912,0,1,2003,"multi-phase renovation between 2002-2011; seats added in Green Monster and roof areas, luxury boxes, overhaul of concourse"
+CHC,Wrigley Field,41649,1914,0,1,2014,1060 Project--privately funded renovation completed in phases between 2014-2019
+CWS,Rate Field,40615,1991,0,1,"2001, 2015","Major $118M overhaul 2001–2004 (seats, concourses, capacity cut); incremental upgrades 2015–2019"
+CIN,Great American Ball Park,45814,2003,1,0,,replaced Cinergy Field
+CLE,Progressive Field,34830,1994,0,1,"2014, 2023",Two separate waves of large-scale renovations
+COL,Coors Field,50398,1995,0,0,,
+DET,Comerica Park,41083,2000,0,0,,Opened in the first year of my selected time window
+HOU,Daikin Park,40963,2000,0,1,2017,"Additional seating, concessions, escalators, etc."
+KC,Kauffman Stadium,40793,1973,0,1,2009,"reduced seating capacity, new entry ticket gates, wider concourses, new concessions/restrooms, outfield kids area, right field sports bar/restaurant"
+LAA,Angel Stadium,45050,1966,0,0,,"Major renovation completed in 1998, just before my selected time period"
+LAD,Dodger Stadium,56000,1962,0,1,2019,"$100 million renovation included new center field plaza, sports bar/restaurant, new elevators/escalators, new stadium center main entrance, etc."
+MIA,loanDepot Park,37442,2012,1,0,,moved from Joe Robbie Center in 2012
+MIL,American Family Field,41900,2001,1,1,2024,$500 million publicly funded renovation beginning in 2024
+MIN,Target Field,39504,2010,1,0,,Moved from Metrodome in 2010
+NYM,Citi Field,42000,2009,1,0,,Replaced Shea Stadium in 2009
+NYY,Yankee Stadium,50287,2009,1,0,,Replaced original Yankee Stadium in 2009
+PHI,Citizens Bank Park,43035,2004,1,0,,Replaced Veterans Stadium in 2004
+PIT,PNC Park,38362,2001,1,0,,Replaced Three Rivers Stadium in 2001; only minor improvements since opening
+SD,Petco Park,39860,2004,1,0,,Replaced San Diego Stadium in 2004
+SF,Oracle Park,40260,2000,0,1,2020,Bullpen relocation and center field restructuring; motivation was more player safety than fan experience; not feasible to measure direct impact on attendance since 2020 season had no fans
+SEA,T-Mobile Park,47574,1999,0,0,,
+STL,Busch Stadium,43975,2006,1,0,,replaced Busch Memorial Stadium in 2006
+TB,Tropicana Field,25025,1998,0,1,2014,"major renovations in 2014; roof destroyed by hurricane in 2024, so they played at an alternate (smaller) venue in 2025"
+TEX,Globe Life Field,40300,2020,1,0,,Replaced Globe Life Park in 2020
+TOR,Rogers Centre,41500,1989,0,1,2022,"$400 million two-phase renovation--reoriented seats, new outfield social spaces, reduced capacity. Also worth noting that TOR played elsewhere in 2020 and early 2021 due to COVID-related border closures"
+WAS,Nationals Park,41565,2008,1,0,,Opened 2008; replacement stadium for the team moving from Montreal

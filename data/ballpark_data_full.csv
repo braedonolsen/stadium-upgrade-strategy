@@ -1,0 +1,751 @@
+year,team_abbr,team_name_full,stadium,attendance_total,attendance_game,wins,team,fci,stadium_name,capacity,opened,is_new,is_renovated,renovation_year,notes
+2025,ARI,Arizona Diamondbacks,Chase Field,2393973,29555,80,NA,NA,Chase Field,48633,1998,0,0,NA,NA
+2025,ATH,Athletics,Sutter Health Park,768464,9487,76,NA,NA,Sutter Health Park,14014,2025,1,0,NA,existing Minor League park; Athletics began using the park in 2025
+2025,ATL,Atlanta Braves,Truist Park,2903167,35842,76,NA,NA,Truist Park,41500,2017,1,0,NA,replaced Turner Field
+2025,BAL,Baltimore Orioles,Oriole Park at Camden Yards,1803655,22267,75,NA,NA,Oriole Park,45971,1992,0,1,2011,"seat replacement, suite renovation, capacity reduced"
+2025,BOS,Boston Red Sox,Fenway Park,2776496,34278,89,NA,NA,Fenway Park,37673,1912,0,1,2003,"multi-phase renovation between 2002-2011; seats added in Green Monster and roof areas, luxury boxes, overhaul of concourse"
+2025,CHC,Chicago Cubs,Wrigley Field,3017983,37259,92,NA,NA,Wrigley Field,41649,1914,0,1,2014,1060 Project--privately funded renovation completed in phases between 2014-2019
+2025,CWS,Chicago White Sox,Guaranteed Rate Field,1445738,17849,60,NA,NA,Rate Field,40615,1991,0,1,"2001, 2015","Major $118M overhaul 2001–2004 (seats, concourses, capacity cut); incremental upgrades 2015–2019"
+2025,CIN,Cincinnati Reds,Great American Ball Park,2170963,26802,83,NA,NA,Great American Ball Park,45814,2003,1,0,NA,replaced Cinergy Field
+2025,CLE,Cleveland Guardians,Progressive Field,2051360,25325,88,NA,NA,Progressive Field,34830,1994,0,1,"2014, 2023",Two separate waves of large-scale renovations
+2025,COL,Colorado Rockies,Coors Field,2404613,29687,43,NA,NA,Coors Field,50398,1995,0,0,NA,NA
+2025,DET,Detroit Tigers,Comerica Park,2413442,29796,87,NA,NA,Comerica Park,41083,2000,0,0,NA,Opened in the first year of my selected time window
+2025,HOU,Houston Astros,Daikin Park,2727877,33677,87,NA,NA,Daikin Park,40963,2000,0,1,2017,"Additional seating, concessions, escalators, etc."
+2025,KC,Kansas City Royals,Kauffman Stadium,1748801,21590,82,NA,NA,Kauffman Stadium,40793,1973,0,1,2009,"reduced seating capacity, new entry ticket gates, wider concourses, new concessions/restrooms, outfield kids area, right field sports bar/restaurant"
+2025,LAA,Los Angeles Angels,Angel Stadium of Anaheim,2615506,32290,72,NA,NA,Angel Stadium,45050,1966,0,0,NA,"Major renovation completed in 1998, just before my selected time period"
+2025,LAD,Los Angeles Dodgers,Dodger Stadium,4012470,49537,93,NA,NA,Dodger Stadium,56000,1962,0,1,2019,"$100 million renovation included new center field plaza, sports bar/restaurant, new elevators/escalators, new stadium center main entrance, etc."
+2025,MIA,Miami Marlins,loanDepot park,1156880,14282,79,NA,NA,loanDepot Park,37442,2012,1,0,NA,moved from Joe Robbie Center in 2012
+2025,MIL,Milwaukee Brewers,American Family Field,2650089,32717,97,NA,NA,American Family Field,41900,2001,1,1,2024,$500 million publicly funded renovation beginning in 2024
+2025,MIN,Minnesota Twins,Target Field,1768728,21836,70,NA,NA,Target Field,39504,2010,1,0,NA,Moved from Metrodome in 2010
+2025,NYM,New York Mets,Citi Field,3184570,39316,83,NA,NA,Citi Field,42000,2009,1,0,NA,Replaced Shea Stadium in 2009
+2025,NYY,New York Yankees,Yankee Stadium III,3392659,41885,94,NA,NA,Yankee Stadium,50287,2009,1,0,NA,Replaced original Yankee Stadium in 2009
+2025,PHI,Philadelphia Phillies,Citizens Bank Park,3375457,41672,96,NA,NA,Citizens Bank Park,43035,2004,1,0,NA,Replaced Veterans Stadium in 2004
+2025,PIT,Pittsburgh Pirates,PNC Park,1525025,18827,71,NA,NA,PNC Park,38362,2001,1,0,NA,Replaced Three Rivers Stadium in 2001; only minor improvements since opening
+2025,SD,San Diego Padres,Petco Park,3437201,42435,90,NA,NA,Petco Park,39860,2004,1,0,NA,Replaced San Diego Stadium in 2004
+2025,SF,San Francisco Giants,Oracle Park,2925823,36121,81,NA,NA,Oracle Park,40260,2000,0,1,2020,Bullpen relocation and center field restructuring; motivation was more player safety than fan experience; not feasible to measure direct impact on attendance since 2020 season had no fans
+2025,SEA,Seattle Mariners,T-Mobile Park,2538053,31334,90,NA,NA,T-Mobile Park,47574,1999,0,0,NA,NA
+2025,STL,St. Louis Cardinals,Busch Stadium III,2250007,27778,78,NA,NA,Busch Stadium,43975,2006,1,0,NA,replaced Busch Memorial Stadium in 2006
+2025,TB,Tampa Bay Rays,Steinbrenner Field,786750,9713,77,NA,NA,Tropicana Field,25025,1998,0,1,2014,"major renovations in 2014; roof destroyed by hurricane in 2024, so they played at an alternate (smaller) venue in 2025"
+2025,TEX,Texas Rangers,Globe Life Field,2397069,29593,81,NA,NA,Globe Life Field,40300,2020,1,0,NA,Replaced Globe Life Park in 2020
+2025,TOR,Toronto Blue Jays,Rogers Centre,2849935,35184,94,NA,NA,Rogers Centre,41500,1989,0,1,2022,"$400 million two-phase renovation--reoriented seats, new outfield social spaces, reduced capacity. Also worth noting that TOR played elsewhere in 2020 and early 2021 due to COVID-related border closures"
+2025,WAS,Washington Nationals,Nationals Park,1916768,23664,66,NA,NA,Nationals Park,41565,2008,1,0,NA,Opened 2008; replacement stadium for the team moving from Montreal
+2024,ARI,Arizona Diamondbacks,Chase Field,2341876,28912,89,NA,NA,Chase Field,48633,1998,0,0,NA,NA
+2024,ATL,Atlanta Braves,Truist Park,3011755,37182,89,NA,NA,Truist Park,41500,2017,1,0,NA,replaced Turner Field
+2024,BAL,Baltimore Orioles,Oriole Park at Camden Yards,2281129,28162,91,NA,NA,Oriole Park,45971,1992,0,1,2011,"seat replacement, suite renovation, capacity reduced"
+2024,BOS,Boston Red Sox,Fenway Park,2659949,32839,81,NA,NA,Fenway Park,37673,1912,0,1,2003,"multi-phase renovation between 2002-2011; seats added in Green Monster and roof areas, luxury boxes, overhaul of concourse"
+2024,CHC,Chicago Cubs,Wrigley Field,2909794,35923,83,NA,NA,Wrigley Field,41649,1914,0,1,2014,1060 Project--privately funded renovation completed in phases between 2014-2019
+2024,CWS,Chicago White Sox,Guaranteed Rate Field,1380733,17046,41,NA,NA,Rate Field,40615,1991,0,1,"2001, 2015","Major $118M overhaul 2001–2004 (seats, concourses, capacity cut); incremental upgrades 2015–2019"
+2024,CIN,Cincinnati Reds,Great American Ball Park,2024178,24990,77,NA,NA,Great American Ball Park,45814,2003,1,0,NA,replaced Cinergy Field
+2024,CLE,Cleveland Guardians,Progressive Field,2056264,25703,92,NA,NA,Progressive Field,34830,1994,0,1,"2014, 2023",Two separate waves of large-scale renovations
+2024,COL,Colorado Rockies,Coors Field,2540195,31360,61,NA,NA,Coors Field,50398,1995,0,0,NA,NA
+2024,DET,Detroit Tigers,Comerica Park,1858295,22942,86,NA,NA,Comerica Park,41083,2000,0,0,NA,Opened in the first year of my selected time window
+2024,HOU,Houston Astros,Minute Maid Park,2835234,35003,88,NA,NA,Daikin Park,40963,2000,0,1,2017,"Additional seating, concessions, escalators, etc."
+2024,KC,Kansas City Royals,Kauffman Stadium,1658347,20473,86,NA,NA,Kauffman Stadium,40793,1973,0,1,2009,"reduced seating capacity, new entry ticket gates, wider concourses, new concessions/restrooms, outfield kids area, right field sports bar/restaurant"
+2024,LAA,Los Angeles Angels,Angel Stadium of Anaheim,2577597,31822,63,NA,NA,Angel Stadium,45050,1966,0,0,NA,"Major renovation completed in 1998, just before my selected time period"
+2024,LAD,Los Angeles Dodgers,Dodger Stadium,3941251,48657,98,NA,NA,Dodger Stadium,56000,1962,0,1,2019,"$100 million renovation included new center field plaza, sports bar/restaurant, new elevators/escalators, new stadium center main entrance, etc."
+2024,MIA,Miami Marlins,loanDepot park,1087455,13425,62,NA,NA,loanDepot Park,37442,2012,1,0,NA,moved from Joe Robbie Center in 2012
+2024,MIL,Milwaukee Brewers,American Family Field,2537202,31323,93,NA,NA,American Family Field,41900,2001,1,1,2024,$500 million publicly funded renovation beginning in 2024
+2024,MIN,Minnesota Twins,Target Field,1951616,24094,82,NA,NA,Target Field,39504,2010,1,0,NA,Moved from Metrodome in 2010
+2024,NYM,New York Mets,Citi Field,2329299,28757,89,NA,NA,Citi Field,42000,2009,1,0,NA,Replaced Shea Stadium in 2009
+2024,NYY,New York Yankees,Yankee Stadium III,3309838,40862,94,NA,NA,Yankee Stadium,50287,2009,1,0,NA,Replaced original Yankee Stadium in 2009
+2024,ATH,Oakland Athletics,Oakland Coliseum,922286,11386,69,NA,NA,Sutter Health Park,14014,2025,1,0,NA,existing Minor League park; Athletics began using the park in 2025
+2024,PHI,Philadelphia Phillies,Citizens Bank Park,3363712,41527,95,NA,NA,Citizens Bank Park,43035,2004,1,0,NA,Replaced Veterans Stadium in 2004
+2024,PIT,Pittsburgh Pirates,PNC Park,1720361,21239,76,NA,NA,PNC Park,38362,2001,1,0,NA,Replaced Three Rivers Stadium in 2001; only minor improvements since opening
+2024,SD,San Diego Padres,Petco Park,3330545,41118,93,NA,NA,Petco Park,39860,2004,1,0,NA,Replaced San Diego Stadium in 2004
+2024,SF,San Francisco Giants,Oracle Park,2647736,32688,80,NA,NA,Oracle Park,40260,2000,0,1,2020,Bullpen relocation and center field restructuring; motivation was more player safety than fan experience; not feasible to measure direct impact on attendance since 2020 season had no fans
+2024,SEA,Seattle Mariners,T-Mobile Park,2555813,31553,85,NA,NA,T-Mobile Park,47574,1999,0,0,NA,NA
+2024,STL,St. Louis Cardinals,Busch Stadium III,2878115,35532,83,NA,NA,Busch Stadium,43975,2006,1,0,NA,replaced Busch Memorial Stadium in 2006
+2024,TB,Tampa Bay Rays,Tropicana Field,1337739,16515,80,NA,NA,Tropicana Field,25025,1998,0,1,2014,"major renovations in 2014; roof destroyed by hurricane in 2024, so they played at an alternate (smaller) venue in 2025"
+2024,TEX,Texas Rangers,Globe Life Field,2651553,32735,78,NA,NA,Globe Life Field,40300,2020,1,0,NA,Replaced Globe Life Park in 2020
+2024,TOR,Toronto Blue Jays,Rogers Centre,2681236,33102,74,NA,NA,Rogers Centre,41500,1989,0,1,2022,"$400 million two-phase renovation--reoriented seats, new outfield social spaces, reduced capacity. Also worth noting that TOR played elsewhere in 2020 and early 2021 due to COVID-related border closures"
+2024,WAS,Washington Nationals,Nationals Park,1967302,24288,71,NA,NA,Nationals Park,41565,2008,1,0,NA,Opened 2008; replacement stadium for the team moving from Montreal
+2023,ARI,Arizona Diamondbacks,Chase Field,1961182,24212,84,NA,NA,Chase Field,48633,1998,0,0,NA,NA
+2023,ATL,Atlanta Braves,Truist Park,3191505,39401,104,NA,NA,Truist Park,41500,2017,1,0,NA,replaced Turner Field
+2023,BAL,Baltimore Orioles,Oriole Park at Camden Yards,1936798,23911,101,NA,NA,Oriole Park,45971,1992,0,1,2011,"seat replacement, suite renovation, capacity reduced"
+2023,BOS,Boston Red Sox,Fenway Park,2672130,32989,78,NA,NA,Fenway Park,37673,1912,0,1,2003,"multi-phase renovation between 2002-2011; seats added in Green Monster and roof areas, luxury boxes, overhaul of concourse"
+2023,CHC,Chicago Cubs,Wrigley Field,2775149,34261,83,NA,NA,Wrigley Field,41649,1914,0,1,2014,1060 Project--privately funded renovation completed in phases between 2014-2019
+2023,CWS,Chicago White Sox,Guaranteed Rate Field,1669628,20613,61,NA,NA,Rate Field,40615,1991,0,1,"2001, 2015","Major $118M overhaul 2001–2004 (seats, concourses, capacity cut); incremental upgrades 2015–2019"
+2023,CIN,Cincinnati Reds,Great American Ball Park,2038302,25164,82,NA,NA,Great American Ball Park,45814,2003,1,0,NA,replaced Cinergy Field
+2023,CLE,Cleveland Guardians,Progressive Field,1834068,22643,76,NA,NA,Progressive Field,34830,1994,0,1,"2014, 2023",Two separate waves of large-scale renovations
+2023,COL,Colorado Rockies,Coors Field,2607935,32197,59,NA,NA,Coors Field,50398,1995,0,0,NA,NA
+2023,DET,Detroit Tigers,Comerica Park,1612876,19912,78,NA,NA,Comerica Park,41083,2000,0,0,NA,Opened in the first year of my selected time window
+2023,HOU,Houston Astros,Minute Maid Park,3052347,37683,90,NA,NA,Daikin Park,40963,2000,0,1,2017,"Additional seating, concessions, escalators, etc."
+2023,KC,Kansas City Royals,Kauffman Stadium,1307052,16136,56,NA,NA,Kauffman Stadium,40793,1973,0,1,2009,"reduced seating capacity, new entry ticket gates, wider concourses, new concessions/restrooms, outfield kids area, right field sports bar/restaurant"
+2023,LAA,Los Angeles Angels,Angel Stadium of Anaheim,2640575,32600,73,NA,NA,Angel Stadium,45050,1966,0,0,NA,"Major renovation completed in 1998, just before my selected time period"
+2023,LAD,Los Angeles Dodgers,Dodger Stadium,3837079,47371,100,NA,NA,Dodger Stadium,56000,1962,0,1,2019,"$100 million renovation included new center field plaza, sports bar/restaurant, new elevators/escalators, new stadium center main entrance, etc."
+2023,MIA,Miami Marlins,loanDepot park,1162819,14356,84,NA,NA,loanDepot Park,37442,2012,1,0,NA,moved from Joe Robbie Center in 2012
+2023,MIL,Milwaukee Brewers,American Family Field,2551347,31498,92,NA,NA,American Family Field,41900,2001,1,1,2024,$500 million publicly funded renovation beginning in 2024
+2023,MIN,Minnesota Twins,Target Field,1974124,24372,87,NA,NA,Target Field,39504,2010,1,0,NA,Moved from Metrodome in 2010
+2023,NYM,New York Mets,Citi Field,2573555,31772,75,NA,NA,Citi Field,42000,2009,1,0,NA,Replaced Shea Stadium in 2009
+2023,NYY,New York Yankees,Yankee Stadium III,3269016,40358,82,NA,NA,Yankee Stadium,50287,2009,1,0,NA,Replaced original Yankee Stadium in 2009
+2023,ATH,Oakland Athletics,Oakland Coliseum,832352,10276,50,NA,NA,Sutter Health Park,14014,2025,1,0,NA,existing Minor League park; Athletics began using the park in 2025
+2023,PHI,Philadelphia Phillies,Citizens Bank Park,3052605,37686,90,NA,NA,Citizens Bank Park,43035,2004,1,0,NA,Replaced Veterans Stadium in 2004
+2023,PIT,Pittsburgh Pirates,PNC Park,1630624,20131,76,NA,NA,PNC Park,38362,2001,1,0,NA,Replaced Three Rivers Stadium in 2001; only minor improvements since opening
+2023,SD,San Diego Padres,Petco Park,3271554,40390,82,NA,NA,Petco Park,39860,2004,1,0,NA,Replaced San Diego Stadium in 2004
+2023,SF,San Francisco Giants,Oracle Park,2500153,30866,79,NA,NA,Oracle Park,40260,2000,0,1,2020,Bullpen relocation and center field restructuring; motivation was more player safety than fan experience; not feasible to measure direct impact on attendance since 2020 season had no fans
+2023,SEA,Seattle Mariners,T-Mobile Park,2690418,33215,88,NA,NA,T-Mobile Park,47574,1999,0,0,NA,NA
+2023,STL,St. Louis Cardinals,Busch Stadium III,3241091,40013,71,NA,NA,Busch Stadium,43975,2006,1,0,NA,replaced Busch Memorial Stadium in 2006
+2023,TB,Tampa Bay Rays,Tropicana Field,1440301,17781,99,NA,NA,Tropicana Field,25025,1998,0,1,2014,"major renovations in 2014; roof destroyed by hurricane in 2024, so they played at an alternate (smaller) venue in 2025"
+2023,TEX,Texas Rangers,Globe Life Field,2533044,31272,90,NA,NA,Globe Life Field,40300,2020,1,0,NA,Replaced Globe Life Park in 2020
+2023,TOR,Toronto Blue Jays,Rogers Centre,3021904,37307,89,NA,NA,Rogers Centre,41500,1989,0,1,2022,"$400 million two-phase renovation--reoriented seats, new outfield social spaces, reduced capacity. Also worth noting that TOR played elsewhere in 2020 and early 2021 due to COVID-related border closures"
+2023,WAS,Washington Nationals,Nationals Park,1865832,23035,71,NA,NA,Nationals Park,41565,2008,1,0,NA,Opened 2008; replacement stadium for the team moving from Montreal
+2022,ARI,Arizona Diamondbacks,Chase Field,1605199,19817,74,ARIZONA,152.3,Chase Field,48633,1998,0,0,NA,NA
+2022,ATL,Atlanta Braves,Truist Park,3129931,38641,101,ATLANTA,255.82,Truist Park,41500,2017,1,0,NA,replaced Turner Field
+2022,BAL,Baltimore Orioles,Oriole Park at Camden Yards,1368367,16893,83,BALTIMORE,203.06,Oriole Park,45971,1992,0,1,2011,"seat replacement, suite renovation, capacity reduced"
+2022,BOS,Boston Red Sox,Fenway Park,2625089,32409,78,BOSTON,385.37,Fenway Park,37673,1912,0,1,2003,"multi-phase renovation between 2002-2011; seats added in Green Monster and roof areas, luxury boxes, overhaul of concourse"
+2022,CHC,Chicago Cubs,Wrigley Field,2616780,32306,74,CHICAGO CUBS,364.83,Wrigley Field,41649,1914,0,1,2014,1060 Project--privately funded renovation completed in phases between 2014-2019
+2022,CWS,Chicago White Sox,Guaranteed Rate Field,2009359,24807,81,CHICAGO WHITE SOX,274.77,Rate Field,40615,1991,0,1,"2001, 2015","Major $118M overhaul 2001–2004 (seats, concourses, capacity cut); incremental upgrades 2015–2019"
+2022,CIN,Cincinnati Reds,Great American Ball Park,1395770,17232,62,CINCINNATI,214.36,Great American Ball Park,45814,2003,1,0,NA,replaced Cinergy Field
+2022,CLE,Cleveland Guardians,Progressive Field,1295870,15998,92,CLEVELAND,217.87,Progressive Field,34830,1994,0,1,"2014, 2023",Two separate waves of large-scale renovations
+2022,COL,Colorado Rockies,Coors Field,2597428,32067,68,COLORADO,208.9,Coors Field,50398,1995,0,0,NA,NA
+2022,DET,Detroit Tigers,Comerica Park,1575544,19214,66,DETROIT,216.74,Comerica Park,41083,2000,0,0,NA,Opened in the first year of my selected time window
+2022,HOU,Houston Astros,Minute Maid Park,2688998,33198,106,HOUSTON,354.72,Daikin Park,40963,2000,0,1,2017,"Additional seating, concessions, escalators, etc."
+2022,KC,Kansas City Royals,Kauffman Stadium,1277686,15774,65,KANSAS CITY,243.62,Kauffman Stadium,40793,1973,0,1,2009,"reduced seating capacity, new entry ticket gates, wider concourses, new concessions/restrooms, outfield kids area, right field sports bar/restaurant"
+2022,LAA,Los Angeles Angels,Angel Stadium of Anaheim,2457461,30339,73,CALIFORNIA/ANAHEIM/LA,208.1,Angel Stadium,45050,1966,0,0,NA,"Major renovation completed in 1998, just before my selected time period"
+2022,LAD,Los Angeles Dodgers,Dodger Stadium,3861408,47672,111,LOS ANGELES DODGERS,326.91,Dodger Stadium,56000,1962,0,1,2019,"$100 million renovation included new center field plaza, sports bar/restaurant, new elevators/escalators, new stadium center main entrance, etc."
+2022,MIA,Miami Marlins,loanDepot park,907487,11204,69,FLORIDA/Miami,186.06,loanDepot Park,37442,2012,1,0,NA,moved from Joe Robbie Center in 2012
+2022,MIL,Milwaukee Brewers,American Family Field,2422420,29906,86,MILWAUKEE,251.88,American Family Field,41900,2001,1,1,2024,$500 million publicly funded renovation beginning in 2024
+2022,MIN,Minnesota Twins,Target Field,1801128,22236,78,MINNESOTA,226.89,Target Field,39504,2010,1,0,NA,Moved from Metrodome in 2010
+2022,NYM,New York Mets,Citi Field,2564737,31663,101,N.Y. METS,258.95,Citi Field,42000,2009,1,0,NA,Replaced Shea Stadium in 2009
+2022,NYY,New York Yankees,Yankee Stadium III,3136207,38719,99,N.Y. YANKEES,348.84,Yankee Stadium,50287,2009,1,0,NA,Replaced original Yankee Stadium in 2009
+2022,ATH,Oakland Athletics,RingCentral Coliseum,787902,9849,60,OAKLAND,259.22,Sutter Health Park,14014,2025,1,0,NA,existing Minor League park; Athletics began using the park in 2025
+2022,PHI,Philadelphia Phillies,Citizens Bank Park,2276736,28108,87,PHILADELPHIA,269.16,Citizens Bank Park,43035,2004,1,0,NA,Replaced Veterans Stadium in 2004
+2022,PIT,Pittsburgh Pirates,PNC Park,1257458,15524,62,PITTSBURGH,199.23,PNC Park,38362,2001,1,0,NA,Replaced Three Rivers Stadium in 2001; only minor improvements since opening
+2022,SD,San Diego Padres,Petco Park,2987470,36882,89,SAN DIEGO,237.74,Petco Park,39860,2004,1,0,NA,Replaced San Diego Stadium in 2004
+2022,SF,San Francisco Giants,Oracle Park,2482686,30650,81,SAN FRANCISCO,308.36,Oracle Park,40260,2000,0,1,2020,Bullpen relocation and center field restructuring; motivation was more player safety than fan experience; not feasible to measure direct impact on attendance since 2020 season had no fans
+2022,SEA,Seattle Mariners,T-Mobile Park,2287267,28238,90,SEATTLE,232.49,T-Mobile Park,47574,1999,0,0,NA,NA
+2022,STL,St. Louis Cardinals,Busch Stadium III,3320551,40994,93,ST. LOUIS,265.18,Busch Stadium,43975,2006,1,0,NA,replaced Busch Memorial Stadium in 2006
+2022,TB,Tampa Bay Rays,Tropicana Field,1128127,13927,86,TAMPA BAY,192.02,Tropicana Field,25025,1998,0,1,2014,"major renovations in 2014; roof destroyed by hurricane in 2024, so they played at an alternate (smaller) venue in 2025"
+2022,TEX,Texas Rangers,Globe Life Field,2011361,24832,68,TEXAS,277.31,Globe Life Field,40300,2020,1,0,NA,Replaced Globe Life Park in 2020
+2022,TOR,Toronto Blue Jays,Rogers Centre,2653830,32763,92,TORONTO,230.78,Rogers Centre,41500,1989,0,1,2022,"$400 million two-phase renovation--reoriented seats, new outfield social spaces, reduced capacity. Also worth noting that TOR played elsewhere in 2020 and early 2021 due to COVID-related border closures"
+2022,WAS,Washington Nationals,Nationals Park,2026401,25017,55,WASHINGTON,320.8,Nationals Park,41565,2008,1,0,NA,Opened 2008; replacement stadium for the team moving from Montreal
+2021,ARI,Arizona Diamondbacks,Chase Field,1043010,12877,52,ARIZONA,144.25,Chase Field,48633,1998,0,0,NA,NA
+2021,ATL,Atlanta Braves,Truist Park,2299647,28746,88,ATLANTA,242.96,Truist Park,41500,2017,1,0,NA,replaced Turner Field
+2021,BAL,Baltimore Orioles,Oriole Park at Camden Yards,793229,9793,52,BALTIMORE,245.77,Oriole Park,45971,1992,0,1,2011,"seat replacement, suite renovation, capacity reduced"
+2021,BOS,Boston Red Sox,Fenway Park,1725323,21300,92,BOSTON,376.49,Fenway Park,37673,1912,0,1,2003,"multi-phase renovation between 2002-2011; seats added in Green Monster and roof areas, luxury boxes, overhaul of concourse"
+2021,CHC,Chicago Cubs,Wrigley Field,1978934,24431,71,CHICAGO CUBS,364.38,Wrigley Field,41649,1914,0,1,2014,1060 Project--privately funded renovation completed in phases between 2014-2019
+2021,CWS,Chicago White Sox,Guaranteed Rate Field,1596385,19708,93,CHICAGO WHITE SOX,253.25,Rate Field,40615,1991,0,1,"2001, 2015","Major $118M overhaul 2001–2004 (seats, concourses, capacity cut); incremental upgrades 2015–2019"
+2021,CIN,Cincinnati Reds,Great American Ball Park,1505024,18581,83,CINCINNATI,218.2,Great American Ball Park,45814,2003,1,0,NA,replaced Cinergy Field
+2021,CLE,Cleveland Indians,Progressive Field,1114368,13758,80,CLEVELAND,244.5,Progressive Field,34830,1994,0,1,"2014, 2023",Two separate waves of large-scale renovations
+2021,COL,Colorado Rockies,Coors Field,1938645,23934,74,COLORADO,213.63,Coors Field,50398,1995,0,0,NA,NA
+2021,DET,Detroit Tigers,Comerica Park,1102621,13613,77,DETROIT,215.04,Comerica Park,41083,2000,0,0,NA,Opened in the first year of my selected time window
+2021,HOU,Houston Astros,Minute Maid Park,2068509,25537,95,HOUSTON,347.82,Daikin Park,40963,2000,0,1,2017,"Additional seating, concessions, escalators, etc."
+2021,KC,Kansas City Royals,Kauffman Stadium,1159613,14316,74,KANSAS CITY,225.26,Kauffman Stadium,40793,1973,0,1,2009,"reduced seating capacity, new entry ticket gates, wider concourses, new concessions/restrooms, outfield kids area, right field sports bar/restaurant"
+2021,LAA,Los Angeles Angels,Angel Stadium of Anaheim,1515689,18484,77,CALIFORNIA/ANAHEIM/LA,193.66,Angel Stadium,45050,1966,0,0,NA,"Major renovation completed in 1998, just before my selected time period"
+2021,LAD,Los Angeles Dodgers,Dodger Stadium,2804693,34626,106,LOS ANGELES DODGERS,307.88,Dodger Stadium,56000,1962,0,1,2019,"$100 million renovation included new center field plaza, sports bar/restaurant, new elevators/escalators, new stadium center main entrance, etc."
+2021,MIA,Miami Marlins,loanDepot park,642617,7934,67,FLORIDA/Miami,174.54,loanDepot Park,37442,2012,1,0,NA,moved from Joe Robbie Center in 2012
+2021,MIL,Milwaukee Brewers,American Family Field,1824282,22522,95,MILWAUKEE,239.76,American Family Field,41900,2001,1,1,2024,$500 million publicly funded renovation beginning in 2024
+2021,MIN,Minnesota Twins,Target Field,1310199,16175,73,MINNESOTA,229.14,Target Field,39504,2010,1,0,NA,Moved from Metrodome in 2010
+2021,NYM,New York Mets,Citi Field,1511926,18666,77,N.Y. METS,255.28,Citi Field,42000,2009,1,0,NA,Replaced Shea Stadium in 2009
+2021,NYY,New York Yankees,Yankee Stadium III,1959854,24196,92,N.Y. YANKEES,340.08,Yankee Stadium,50287,2009,1,0,NA,Replaced original Yankee Stadium in 2009
+2021,ATH,Oakland Athletics,RingCentral Coliseum,701430,8660,86,OAKLAND,240.78,Sutter Health Park,14014,2025,1,0,NA,existing Minor League park; Athletics began using the park in 2025
+2021,PHI,Philadelphia Phillies,Citizens Bank Park,1515890,18715,82,PHILADELPHIA,268.24,Citizens Bank Park,43035,2004,1,0,NA,Replaced Veterans Stadium in 2004
+2021,PIT,Pittsburgh Pirates,PNC Park,859498,10611,61,PITTSBURGH,183.86,PNC Park,38362,2001,1,0,NA,Replaced Three Rivers Stadium in 2001; only minor improvements since opening
+2021,SD,San Diego Padres,Petco Park,2191950,27061,79,SAN DIEGO,210.74,Petco Park,39860,2004,1,0,NA,Replaced San Diego Stadium in 2004
+2021,SF,San Francisco Giants,Oracle Park,1679484,20734,107,SAN FRANCISCO,297.66,Oracle Park,40260,2000,0,1,2020,Bullpen relocation and center field restructuring; motivation was more player safety than fan experience; not feasible to measure direct impact on attendance since 2020 season had no fans
+2021,SEA,Seattle Mariners,T-Mobile Park,1215985,15012,90,SEATTLE,257.85,T-Mobile Park,47574,1999,0,0,NA,NA
+2021,STL,St. Louis Cardinals,Busch Stadium III,2102530,25957,90,ST. LOUIS,259.65,Busch Stadium,43975,2006,1,0,NA,replaced Busch Memorial Stadium in 2006
+2021,TB,Tampa Bay Rays,Tropicana Field,761072,9396,100,TAMPA BAY,179.86,Tropicana Field,25025,1998,0,1,2014,"major renovations in 2014; roof destroyed by hurricane in 2024, so they played at an alternate (smaller) venue in 2025"
+2021,TEX,Texas Rangers,Globe Life Field,2110258,26053,60,TEXAS,286.52,Globe Life Field,40300,2020,1,0,NA,Replaced Globe Life Park in 2020
+2021,TOR,Toronto Blue Jays,"Rogers Centre, Sahlen Field, TD Ballpark",805901,10074,91,TORONTO,461.7,Rogers Centre,41500,1989,0,1,2022,"$400 million two-phase renovation--reoriented seats, new outfield social spaces, reduced capacity. Also worth noting that TOR played elsewhere in 2020 and early 2021 due to COVID-related border closures"
+2021,WAS,Washington Nationals,Nationals Park,1465543,18093,65,WASHINGTON,338.53,Nationals Park,41565,2008,1,0,NA,Opened 2008; replacement stadium for the team moving from Montreal
+2019,ARI,Arizona Diamondbacks,Chase Field,2135510,26364,85,ARIZONA,142.42,Chase Field,48633,1998,0,0,NA,NA
+2019,ATL,Atlanta Braves,SunTrust Park,2654920,32777,97,ATLANTA,222.74,Truist Park,41500,2017,1,0,NA,replaced Turner Field
+2019,BAL,Baltimore Orioles,Oriole Park at Camden Yards,1307807,16146,54,BALTIMORE,187.8,Oriole Park,45971,1992,0,1,2011,"seat replacement, suite renovation, capacity reduced"
+2019,BOS,Boston Red Sox,Fenway Park,2915502,35994,84,BOSTON,354.54,Fenway Park,37673,1912,0,1,2003,"multi-phase renovation between 2002-2011; seats added in Green Monster and roof areas, luxury boxes, overhaul of concourse"
+2019,CHC,Chicago Cubs,Wrigley Field,3094865,38208,84,CHICAGO CUBS,370.12,Wrigley Field,41649,1914,0,1,2014,1060 Project--privately funded renovation completed in phases between 2014-2019
+2019,CWS,Chicago White Sox,Guaranteed Rate Field,1649775,20622,72,CHICAGO WHITE SOX,223.5,Rate Field,40615,1991,0,1,"2001, 2015","Major $118M overhaul 2001–2004 (seats, concourses, capacity cut); incremental upgrades 2015–2019"
+2019,CIN,Cincinnati Reds,Great American Ball Park,1809075,22334,75,CINCINNATI,204.56,Great American Ball Park,45814,2003,1,0,NA,replaced Cinergy Field
+2019,CLE,Cleveland Indians,Progressive Field,1738642,21465,93,CLEVELAND,219.64,Progressive Field,34830,1994,0,1,"2014, 2023",Two separate waves of large-scale renovations
+2019,COL,Colorado Rockies,Coors Field,2993244,36954,71,COLORADO,214.64,Coors Field,50398,1995,0,0,NA,NA
+2019,DET,Detroit Tigers,Comerica Park,1501430,18536,47,DETROIT,212.22,Comerica Park,41083,2000,0,0,NA,Opened in the first year of my selected time window
+2019,HOU,Houston Astros,Minute Maid Park,2857367,35276,107,HOUSTON,313.38,Daikin Park,40963,2000,0,1,2017,"Additional seating, concessions, escalators, etc."
+2019,KC,Kansas City Royals,Kauffman Stadium,1479659,18267,59,KANSAS CITY,230.34,Kauffman Stadium,40793,1973,0,1,2009,"reduced seating capacity, new entry ticket gates, wider concourses, new concessions/restrooms, outfield kids area, right field sports bar/restaurant"
+2019,LAA,Los Angeles Angels,Angel Stadium of Anaheim,3023012,37321,72,CALIFORNIA/ANAHEIM/LA,197.66,Angel Stadium,45050,1966,0,0,NA,"Major renovation completed in 1998, just before my selected time period"
+2019,LAD,Los Angeles Dodgers,Dodger Stadium,3974309,49066,106,LOS ANGELES DODGERS,274.98,Dodger Stadium,56000,1962,0,1,2019,"$100 million renovation included new center field plaza, sports bar/restaurant, new elevators/escalators, new stadium center main entrance, etc."
+2019,MIA,Miami Marlins,Marlins Park,811302,10016,57,FLORIDA/Miami,175.68,loanDepot Park,37442,2012,1,0,NA,moved from Joe Robbie Center in 2012
+2019,MIL,Milwaukee Brewers,Miller Park,2923333,36091,89,MILWAUKEE,209.76,American Family Field,41900,2001,1,1,2024,$500 million publicly funded renovation beginning in 2024
+2019,MIN,Minnesota Twins,Target Field,2303299,28436,101,MINNESOTA,210.72,Target Field,39504,2010,1,0,NA,Moved from Metrodome in 2010
+2019,NYM,New York Mets,Citi Field,2442532,30155,86,N.Y. METS,247.38,Citi Field,42000,2009,1,0,NA,Replaced Shea Stadium in 2009
+2019,NYY,New York Yankees,Yankee Stadium III,3304404,40795,103,N.Y. YANKEES,293.96,Yankee Stadium,50287,2009,1,0,NA,Replaced original Yankee Stadium in 2009
+2019,ATH,Oakland Athletics,Oakland-Alameda County Coliseum,1670734,20626,97,OAKLAND,212.1,Sutter Health Park,14014,2025,1,0,NA,existing Minor League park; Athletics began using the park in 2025
+2019,PHI,Philadelphia Phillies,Citizens Bank Park,2727421,33672,81,PHILADELPHIA,250.16,Citizens Bank Park,43035,2004,1,0,NA,Replaced Veterans Stadium in 2004
+2019,PIT,Pittsburgh Pirates,PNC Park,1491439,18413,69,PITTSBURGH,182.42,PNC Park,38362,2001,1,0,NA,Replaced Three Rivers Stadium in 2001; only minor improvements since opening
+2019,SD,San Diego Padres,Petco Park,2396399,29585,70,SAN DIEGO,195.88,Petco Park,39860,2004,1,0,NA,Replaced San Diego Stadium in 2004
+2019,SF,San Francisco Giants,Oracle Park,2707760,33429,77,SAN FRANCISCO,278.2,Oracle Park,40260,2000,0,1,2020,Bullpen relocation and center field restructuring; motivation was more player safety than fan experience; not feasible to measure direct impact on attendance since 2020 season had no fans
+2019,SEA,Seattle Mariners,T-Mobile Park,1791109,22112,68,SEATTLE,258.06,T-Mobile Park,47574,1999,0,0,NA,NA
+2019,STL,St. Louis Cardinals,Busch Stadium III,3480393,42968,91,ST. LOUIS,254.46,Busch Stadium,43975,2006,1,0,NA,replaced Busch Memorial Stadium in 2006
+2019,TB,Tampa Bay Rays,Tropicana Field,1178735,14552,96,TAMPA BAY,160.12,Tropicana Field,25025,1998,0,1,2014,"major renovations in 2014; roof destroyed by hurricane in 2024, so they played at an alternate (smaller) venue in 2025"
+2019,TEX,Texas Rangers,Globe Life Park in Arlington,2132994,26333,78,TEXAS,220.98,Globe Life Field,40300,2020,1,0,NA,Replaced Globe Life Park in 2020
+2019,TOR,Toronto Blue Jays,Rogers Centre,1750144,21607,67,TORONTO,216.51,Rogers Centre,41500,1989,0,1,2022,"$400 million two-phase renovation--reoriented seats, new outfield social spaces, reduced capacity. Also worth noting that TOR played elsewhere in 2020 and early 2021 due to COVID-related border closures"
+2019,WAS,Washington Nationals,Nationals Park,2259781,27899,93,WASHINGTON,296.48,Nationals Park,41565,2008,1,0,NA,Opened 2008; replacement stadium for the team moving from Montreal
+2018,ARI,Arizona Diamondbacks,Chase Field,2242695,27688,82,ARIZONA,145.58,Chase Field,48633,1998,0,0,NA,NA
+2018,ATL,Atlanta Braves,SunTrust Park,2555781,31553,90,ATLANTA,217.84,Truist Park,41500,2017,1,0,NA,replaced Turner Field
+2018,BAL,Baltimore Orioles,Oriole Park at Camden Yards,1564192,19311,47,BALTIMORE,187.8,Oriole Park,45971,1992,0,1,2011,"seat replacement, suite renovation, capacity reduced"
+2018,BOS,Boston Red Sox,Fenway Park,2895575,35748,108,BOSTON,345.88,Fenway Park,37673,1912,0,1,2003,"multi-phase renovation between 2002-2011; seats added in Green Monster and roof areas, luxury boxes, overhaul of concourse"
+2018,CHC,Chicago Cubs,Wrigley Field,3181089,38794,95,CHICAGO CUBS,368.28,Wrigley Field,41649,1914,0,1,2014,1060 Project--privately funded renovation completed in phases between 2014-2019
+2018,CWS,Chicago White Sox,Guaranteed Rate Field,1608817,19862,62,CHICAGO WHITE SOX,216.9,Rate Field,40615,1991,0,1,"2001, 2015","Major $118M overhaul 2001–2004 (seats, concourses, capacity cut); incremental upgrades 2015–2019"
+2018,CIN,Cincinnati Reds,Great American Ball Park,1629356,20116,67,CINCINNATI,191.06,Great American Ball Park,45814,2003,1,0,NA,replaced Cinergy Field
+2018,CLE,Cleveland Indians,Progressive Field,1926701,23786,91,CLEVELAND,210.16,Progressive Field,34830,1994,0,1,"2014, 2023",Two separate waves of large-scale renovations
+2018,COL,Colorado Rockies,Coors Field,3015880,37233,91,COLORADO,198.06,Coors Field,50398,1995,0,0,NA,NA
+2018,DET,Detroit Tigers,Comerica Park,1856970,22926,64,DETROIT,201.6,Comerica Park,41083,2000,0,0,NA,Opened in the first year of my selected time window
+2018,HOU,Houston Astros,Minute Maid Park,2980549,36797,103,HOUSTON,262.98,Daikin Park,40963,2000,0,1,2017,"Additional seating, concessions, escalators, etc."
+2018,KC,Kansas City Royals,Kauffman Stadium,1665107,20557,58,KANSAS CITY,233.3,Kauffman Stadium,40793,1973,0,1,2009,"reduced seating capacity, new entry ticket gates, wider concourses, new concessions/restrooms, outfield kids area, right field sports bar/restaurant"
+2018,LAA,Los Angeles Angels,Angel Stadium of Anaheim,3020216,37287,80,CALIFORNIA/ANAHEIM/LA,194.02,Angel Stadium,45050,1966,0,0,NA,"Major renovation completed in 1998, just before my selected time period"
+2018,LAD,Los Angeles Dodgers,Dodger Stadium,3857500,47043,92,LOS ANGELES DODGERS,268.02,Dodger Stadium,56000,1962,0,1,2019,"$100 million renovation included new center field plaza, sports bar/restaurant, new elevators/escalators, new stadium center main entrance, etc."
+2018,MIA,Miami Marlins,Marlins Park,811104,10014,63,FLORIDA/Miami,229.02,loanDepot Park,37442,2012,1,0,NA,moved from Joe Robbie Center in 2012
+2018,MIL,Milwaukee Brewers,Miller Park,2850875,35196,96,MILWAUKEE,210.4,American Family Field,41900,2001,1,1,2024,$500 million publicly funded renovation beginning in 2024
+2018,MIN,Minnesota Twins,Target Field,1959197,24188,78,MINNESOTA,237.72,Target Field,39504,2010,1,0,NA,Moved from Metrodome in 2010
+2018,NYM,New York Mets,Citi Field,2224995,27469,77,N.Y. METS,244.38,Citi Field,42000,2009,1,0,NA,Replaced Shea Stadium in 2009
+2018,NYY,New York Yankees,Yankee Stadium III,3482855,42998,100,N.Y. YANKEES,301.46,Yankee Stadium,50287,2009,1,0,NA,Replaced original Yankee Stadium in 2009
+2018,ATH,Oakland Athletics,Oakland-Alameda County Coliseum,1573616,19427,97,OAKLAND,199.52,Sutter Health Park,14014,2025,1,0,NA,existing Minor League park; Athletics began using the park in 2025
+2018,PHI,Philadelphia Phillies,Citizens Bank Park,2158124,26644,80,PHILADELPHIA,250.14,Citizens Bank Park,43035,2004,1,0,NA,Replaced Veterans Stadium in 2004
+2018,PIT,Pittsburgh Pirates,PNC Park,1465316,18316,82,PITTSBURGH,178.72,PNC Park,38362,2001,1,0,NA,Replaced Three Rivers Stadium in 2001; only minor improvements since opening
+2018,SD,San Diego Padres,Petco Park,2168536,26772,66,SAN DIEGO,192.12,Petco Park,39860,2004,1,0,NA,Replaced San Diego Stadium in 2004
+2018,SF,San Francisco Giants,AT&T Park,3156185,38965,73,SAN FRANCISCO,271.7,Oracle Park,40260,2000,0,1,2020,Bullpen relocation and center field restructuring; motivation was more player safety than fan experience; not feasible to measure direct impact on attendance since 2020 season had no fans
+2018,SEA,Seattle Mariners,Safeco Field,2299489,28389,89,SEATTLE,251.32,T-Mobile Park,47574,1999,0,0,NA,NA
+2018,STL,St. Louis Cardinals,Busch Stadium III,3403587,42020,88,ST. LOUIS,257.16,Busch Stadium,43975,2006,1,0,NA,replaced Busch Memorial Stadium in 2006
+2018,TB,Tampa Bay Rays,Tropicana Field,1154973,14259,90,TAMPA BAY,156.4,Tropicana Field,25025,1998,0,1,2014,"major renovations in 2014; roof destroyed by hurricane in 2024, so they played at an alternate (smaller) venue in 2025"
+2018,TEX,Texas Rangers,Globe Life Park in Arlington,2107107,26014,67,TEXAS,217.76,Globe Life Field,40300,2020,1,0,NA,Replaced Globe Life Park in 2020
+2018,TOR,Toronto Blue Jays,Rogers Centre,2325281,28707,73,TORONTO,213.9,Rogers Centre,41500,1989,0,1,2022,"$400 million two-phase renovation--reoriented seats, new outfield social spaces, reduced capacity. Also worth noting that TOR played elsewhere in 2020 and early 2021 due to COVID-related border closures"
+2018,WAS,Washington Nationals,Nationals Park,2529604,31230,82,WASHINGTON,266.06,Nationals Park,41565,2008,1,0,NA,Opened 2008; replacement stadium for the team moving from Montreal
+2017,ARI,Arizona Diamondbacks,Chase Field,2134375,26350,93,NA,NA,Chase Field,48633,1998,0,0,NA,NA
+2017,ATL,Atlanta Braves,SunTrust Park,2505252,30929,72,NA,NA,Truist Park,41500,2017,1,0,NA,replaced Turner Field
+2017,BAL,Baltimore Orioles,Oriole Park at Camden Yards,2028424,25042,75,NA,NA,Oriole Park,45971,1992,0,1,2011,"seat replacement, suite renovation, capacity reduced"
+2017,BOS,Boston Red Sox,Fenway Park,2917678,36021,93,NA,NA,Fenway Park,37673,1912,0,1,2003,"multi-phase renovation between 2002-2011; seats added in Green Monster and roof areas, luxury boxes, overhaul of concourse"
+2017,CHC,Chicago Cubs,Wrigley Field,3199562,39501,92,NA,NA,Wrigley Field,41649,1914,0,1,2014,1060 Project--privately funded renovation completed in phases between 2014-2019
+2017,CWS,Chicago White Sox,Guaranteed Rate Field,1629470,20117,67,NA,NA,Rate Field,40615,1991,0,1,"2001, 2015","Major $118M overhaul 2001–2004 (seats, concourses, capacity cut); incremental upgrades 2015–2019"
+2017,CIN,Cincinnati Reds,Great American Ball Park,1836917,22678,68,NA,NA,Great American Ball Park,45814,2003,1,0,NA,replaced Cinergy Field
+2017,CLE,Cleveland Indians,Progressive Field,2048138,25286,102,NA,NA,Progressive Field,34830,1994,0,1,"2014, 2023",Two separate waves of large-scale renovations
+2017,COL,Colorado Rockies,Coors Field,2953650,36465,87,NA,NA,Coors Field,50398,1995,0,0,NA,NA
+2017,DET,Detroit Tigers,Comerica Park,2321599,28662,64,NA,NA,Comerica Park,41083,2000,0,0,NA,Opened in the first year of my selected time window
+2017,HOU,Houston Astros,"Minute Maid Park, Tropicana Field",2403671,29675,101,NA,NA,Daikin Park,40963,2000,0,1,2017,"Additional seating, concessions, escalators, etc."
+2017,KC,Kansas City Royals,Kauffman Stadium,2220370,27412,80,NA,NA,Kauffman Stadium,40793,1973,0,1,2009,"reduced seating capacity, new entry ticket gates, wider concourses, new concessions/restrooms, outfield kids area, right field sports bar/restaurant"
+2017,LAA,Los Angeles Angels,Angel Stadium of Anaheim,3019585,37279,80,NA,NA,Angel Stadium,45050,1966,0,0,NA,"Major renovation completed in 1998, just before my selected time period"
+2017,LAD,Los Angeles Dodgers,Dodger Stadium,3765856,46492,104,NA,NA,Dodger Stadium,56000,1962,0,1,2019,"$100 million renovation included new center field plaza, sports bar/restaurant, new elevators/escalators, new stadium center main entrance, etc."
+2017,MIA,Miami Marlins,Marlins Park,1583014,20295,77,NA,NA,loanDepot Park,37442,2012,1,0,NA,moved from Joe Robbie Center in 2012
+2017,MIL,Milwaukee Brewers,Miller Park,2627705,31282,86,NA,NA,American Family Field,41900,2001,1,1,2024,$500 million publicly funded renovation beginning in 2024
+2017,MIN,Minnesota Twins,Target Field,2051279,25324,85,NA,NA,Target Field,39504,2010,1,0,NA,Moved from Metrodome in 2010
+2017,NYM,New York Mets,Citi Field,2460622,30378,70,NA,NA,Citi Field,42000,2009,1,0,NA,Replaced Shea Stadium in 2009
+2017,NYY,New York Yankees,Yankee Stadium III,3154938,38950,91,NA,NA,Yankee Stadium,50287,2009,1,0,NA,Replaced original Yankee Stadium in 2009
+2017,ATH,Oakland Athletics,Oakland-Alameda County Coliseum,1475721,18219,75,NA,NA,Sutter Health Park,14014,2025,1,0,NA,existing Minor League park; Athletics began using the park in 2025
+2017,PHI,Philadelphia Phillies,Citizens Bank Park,1905354,23523,66,NA,NA,Citizens Bank Park,43035,2004,1,0,NA,Replaced Veterans Stadium in 2004
+2017,PIT,Pittsburgh Pirates,PNC Park,1919447,23697,75,NA,NA,PNC Park,38362,2001,1,0,NA,Replaced Three Rivers Stadium in 2001; only minor improvements since opening
+2017,SD,San Diego Padres,Petco Park,2138491,26401,71,NA,NA,Petco Park,39860,2004,1,0,NA,Replaced San Diego Stadium in 2004
+2017,SF,San Francisco Giants,AT&T Park,3303652,40786,64,NA,NA,Oracle Park,40260,2000,0,1,2020,Bullpen relocation and center field restructuring; motivation was more player safety than fan experience; not feasible to measure direct impact on attendance since 2020 season had no fans
+2017,SEA,Seattle Mariners,Safeco Field,2135445,26364,78,NA,NA,T-Mobile Park,47574,1999,0,0,NA,NA
+2017,STL,St. Louis Cardinals,Busch Stadium III,3448337,42572,83,NA,NA,Busch Stadium,43975,2006,1,0,NA,replaced Busch Memorial Stadium in 2006
+2017,TB,Tampa Bay Rays,Tropicana Field,1253619,15477,80,NA,NA,Tropicana Field,25025,1998,0,1,2014,"major renovations in 2014; roof destroyed by hurricane in 2024, so they played at an alternate (smaller) venue in 2025"
+2017,TEX,Texas Rangers,Globe Life Park in Arlington,2507760,30960,78,NA,NA,Globe Life Field,40300,2020,1,0,NA,Replaced Globe Life Park in 2020
+2017,TOR,Toronto Blue Jays,Rogers Centre,3203886,39554,76,NA,NA,Rogers Centre,41500,1989,0,1,2022,"$400 million two-phase renovation--reoriented seats, new outfield social spaces, reduced capacity. Also worth noting that TOR played elsewhere in 2020 and early 2021 due to COVID-related border closures"
+2017,WAS,Washington Nationals,Nationals Park,2524980,31173,97,NA,NA,Nationals Park,41565,2008,1,0,NA,Opened 2008; replacement stadium for the team moving from Montreal
+2016,ARI,Arizona Diamondbacks,Chase Field,2036216,25138,69,ARIZONA,132.1,Chase Field,48633,1998,0,0,NA,NA
+2016,ATL,Atlanta Braves,"Fort Bragg Park, Turner Field",2020914,24950,68,ATLANTA,178.02,Truist Park,41500,2017,1,0,NA,replaced Turner Field
+2016,BAL,Baltimore Orioles,Oriole Park at Camden Yards,2172344,26819,89,BALTIMORE,183.34,Oriole Park,45971,1992,0,1,2011,"seat replacement, suite renovation, capacity reduced"
+2016,BOS,Boston Red Sox,Fenway Park,2955434,36487,93,BOSTON,360.66,Fenway Park,37673,1912,0,1,2003,"multi-phase renovation between 2002-2011; seats added in Green Monster and roof areas, luxury boxes, overhaul of concourse"
+2016,CHC,Chicago Cubs,Wrigley Field,3232420,39906,103,CHICAGO CUBS,312.32,Wrigley Field,41649,1914,0,1,2014,1060 Project--privately funded renovation completed in phases between 2014-2019
+2016,CWS,Chicago White Sox,U.S. Cellular Field,1746293,21559,78,CHICAGO WHITE SOX,229.5,Rate Field,40615,1991,0,1,"2001, 2015","Major $118M overhaul 2001–2004 (seats, concourses, capacity cut); incremental upgrades 2015–2019"
+2016,CIN,Cincinnati Reds,Great American Ball Park,1894085,23384,68,CINCINNATI,166.54,Great American Ball Park,45814,2003,1,0,NA,replaced Cinergy Field
+2016,CLE,Cleveland Indians,Progressive Field,1591667,19650,94,CLEVELAND,179.44,Progressive Field,34830,1994,0,1,"2014, 2023",Two separate waves of large-scale renovations
+2016,COL,Colorado Rockies,Coors Field,2602524,32130,75,COLORADO,193.96,Coors Field,50398,1995,0,0,NA,NA
+2016,DET,Detroit Tigers,Comerica Park,2493859,31173,86,DETROIT,214.52,Comerica Park,41083,2000,0,0,NA,Opened in the first year of my selected time window
+2016,HOU,Houston Astros,Minute Maid Park,2306623,28477,84,HOUSTON,242,Daikin Park,40963,2000,0,1,2017,"Additional seating, concessions, escalators, etc."
+2016,KC,Kansas City Royals,Kauffman Stadium,2557712,31577,81,KANSAS CITY,202.52,Kauffman Stadium,40793,1973,0,1,2009,"reduced seating capacity, new entry ticket gates, wider concourses, new concessions/restrooms, outfield kids area, right field sports bar/restaurant"
+2016,LAA,Los Angeles Angels,Angel Stadium of Anaheim,3016142,37236,74,CALIFORNIA/ANAHEIM/LA,210.8,Angel Stadium,45050,1966,0,0,NA,"Major renovation completed in 1998, just before my selected time period"
+2016,LAD,Los Angeles Dodgers,Dodger Stadium,3703312,45720,91,LOS ANGELES DODGERS,234.1,Dodger Stadium,56000,1962,0,1,2019,"$100 million renovation included new center field plaza, sports bar/restaurant, new elevators/escalators, new stadium center main entrance, etc."
+2016,MIA,Miami Marlins,"Estadio Hiram Bithorn, Marlins Park",1712417,21405,79,FLORIDA/Miami,214.22,loanDepot Park,37442,2012,1,0,NA,moved from Joe Robbie Center in 2012
+2016,MIL,Milwaukee Brewers,Miller Park,2314614,28575,73,MILWAUKEE,190.28,American Family Field,41900,2001,1,1,2024,$500 million publicly funded renovation beginning in 2024
+2016,MIN,Minnesota Twins,Target Field,1963912,24246,59,MINNESOTA,212.12,Target Field,39504,2010,1,0,NA,Moved from Metrodome in 2010
+2016,NYM,New York Mets,Citi Field,2789602,34440,87,N.Y. METS,223.56,Citi Field,42000,2009,1,0,NA,Replaced Shea Stadium in 2009
+2016,NYY,New York Yankees,Yankee Stadium III,3063405,37820,84,N.Y. YANKEES,337.2,Yankee Stadium,50287,2009,1,0,NA,Replaced original Yankee Stadium in 2009
+2016,ATH,Oakland Athletics,Oakland-Alameda County Coliseum,1521506,18784,69,OAKLAND,198.84,Sutter Health Park,14014,2025,1,0,NA,existing Minor League park; Athletics began using the park in 2025
+2016,PHI,Philadelphia Phillies,Citizens Bank Park,1915144,23644,71,PHILADELPHIA,258.5,Citizens Bank Park,43035,2004,1,0,NA,Replaced Veterans Stadium in 2004
+2016,PIT,Pittsburgh Pirates,PNC Park,2249201,27768,78,PITTSBURGH,195.84,PNC Park,38362,2001,1,0,NA,Replaced Three Rivers Stadium in 2001; only minor improvements since opening
+2016,SD,San Diego Padres,Petco Park,2351422,29030,68,SAN DIEGO,182.82,Petco Park,39860,2004,1,0,NA,Replaced San Diego Stadium in 2004
+2016,SF,San Francisco Giants,AT&T Park,3365256,41546,87,SAN FRANCISCO,255.04,Oracle Park,40260,2000,0,1,2020,Bullpen relocation and center field restructuring; motivation was more player safety than fan experience; not feasible to measure direct impact on attendance since 2020 season had no fans
+2016,SEA,Seattle Mariners,Safeco Field,2267928,27999,86,SEATTLE,209,T-Mobile Park,47574,1999,0,0,NA,NA
+2016,STL,St. Louis Cardinals,Busch Stadium III,3444490,42525,86,ST. LOUIS,243.96,Busch Stadium,43975,2006,1,0,NA,replaced Busch Memorial Stadium in 2006
+2016,TB,Tampa Bay Rays,Tropicana Field,1286163,15879,68,TAMPA BAY,154.16,Tropicana Field,25025,1998,0,1,2014,"major renovations in 2014; roof destroyed by hurricane in 2024, so they played at an alternate (smaller) venue in 2025"
+2016,TEX,Texas Rangers,Globe Life Park in Arlington,2710402,33462,95,TEXAS,204.56,Globe Life Field,40300,2020,1,0,NA,Replaced Globe Life Park in 2020
+2016,TOR,Toronto Blue Jays,Rogers Centre,3392099,41878,89,TORONTO,231.76,Rogers Centre,41500,1989,0,1,2022,"$400 million two-phase renovation--reoriented seats, new outfield social spaces, reduced capacity. Also worth noting that TOR played elsewhere in 2020 and early 2021 due to COVID-related border closures"
+2016,WAS,Washington Nationals,Nationals Park,2481938,30641,95,WASHINGTON,234.36,Nationals Park,41565,2008,1,0,NA,Opened 2008; replacement stadium for the team moving from Montreal
+2015,ARI,Arizona Diamondbacks,Chase Field,2080145,25681,79,ARIZONA,126.89,Chase Field,48633,1998,0,0,NA,NA
+2015,ATL,Atlanta Braves,Turner Field,2001392,24709,67,ATLANTA,174.06,Truist Park,41500,2017,1,0,NA,replaced Turner Field
+2015,BAL,Baltimore Orioles,Oriole Park at Camden Yards,2281202,29246,81,BALTIMORE,163.39,Oriole Park,45971,1992,0,1,2011,"seat replacement, suite renovation, capacity reduced"
+2015,BOS,Boston Red Sox,Fenway Park,2880694,35564,78,BOSTON,350.86,Fenway Park,37673,1912,0,1,2003,"multi-phase renovation between 2002-2011; seats added in Green Monster and roof areas, luxury boxes, overhaul of concourse"
+2015,CHC,Chicago Cubs,Wrigley Field,2919122,36039,97,CHICAGO CUBS,300.73,Wrigley Field,41649,1914,0,1,2014,1060 Project--privately funded renovation completed in phases between 2014-2019
+2015,CWS,Chicago White Sox,U.S. Cellular Field,1755810,21677,76,CHICAGO WHITE SOX,208.18,Rate Field,40615,1991,0,1,"2001, 2015","Major $118M overhaul 2001–2004 (seats, concourses, capacity cut); incremental upgrades 2015–2019"
+2015,CIN,Cincinnati Reds,Great American Ball Park,2419506,29870,64,CINCINNATI,166.62,Great American Ball Park,45814,2003,1,0,NA,replaced Cinergy Field
+2015,CLE,Cleveland Indians,Progressive Field,1388905,17361,81,CLEVELAND,166.52,Progressive Field,34830,1994,0,1,"2014, 2023",Two separate waves of large-scale renovations
+2015,COL,Colorado Rockies,Coors Field,2506789,30948,68,COLORADO,196.6,Coors Field,50398,1995,0,0,NA,NA
+2015,DET,Detroit Tigers,Comerica Park,2726048,33655,74,DETROIT,213.03,Comerica Park,41083,2000,0,0,NA,Opened in the first year of my selected time window
+2015,HOU,Houston Astros,Minute Maid Park,2153585,26587,86,HOUSTON,220.28,Daikin Park,40963,2000,0,1,2017,"Additional seating, concessions, escalators, etc."
+2015,KC,Kansas City Royals,Kauffman Stadium,2708549,33439,95,KANSAS CITY,212.04,Kauffman Stadium,40793,1973,0,1,2009,"reduced seating capacity, new entry ticket gates, wider concourses, new concessions/restrooms, outfield kids area, right field sports bar/restaurant"
+2015,LAA,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,3012765,37195,85,CALIFORNIA/ANAHEIM/LA,190.16,Angel Stadium,45050,1966,0,0,NA,"Major renovation completed in 1998, just before my selected time period"
+2015,LAD,Los Angeles Dodgers,Dodger Stadium,3764815,46479,92,LOS ANGELES DODGERS,218.94,Dodger Stadium,56000,1962,0,1,2019,"$100 million renovation included new center field plaza, sports bar/restaurant, new elevators/escalators, new stadium center main entrance, etc."
+2015,MIA,Miami Marlins,Marlins Park,1752235,21633,71,FLORIDA/Miami,224.83,loanDepot Park,37442,2012,1,0,NA,moved from Joe Robbie Center in 2012
+2015,MIL,Milwaukee Brewers,Miller Park,2542558,31390,68,MILWAUKEE,182.28,American Family Field,41900,2001,1,1,2024,$500 million publicly funded renovation beginning in 2024
+2015,MIN,Minnesota Twins,Target Field,2220054,27408,83,MINNESOTA,229.36,Target Field,39504,2010,1,0,NA,Moved from Metrodome in 2010
+2015,NYM,New York Mets,Citi Field,2569753,31725,90,N.Y. METS,219.68,Citi Field,42000,2009,1,0,NA,Replaced Shea Stadium in 2009
+2015,NYY,New York Yankees,Yankee Stadium III,3193795,39430,87,N.Y. YANKEES,337.2,Yankee Stadium,50287,2009,1,0,NA,Replaced original Yankee Stadium in 2009
+2015,ATH,Oakland Athletics,O.co Coliseum,1768175,21829,68,OAKLAND,195,Sutter Health Park,14014,2025,1,0,NA,existing Minor League park; Athletics began using the park in 2025
+2015,PHI,Philadelphia Phillies,Citizens Bank Park,1831080,22606,63,PHILADELPHIA,252.18,Citizens Bank Park,43035,2004,1,0,NA,Replaced Veterans Stadium in 2004
+2015,PIT,Pittsburgh Pirates,PNC Park,2498596,30847,98,PITTSBURGH,175.95,PNC Park,38362,2001,1,0,NA,Replaced Three Rivers Stadium in 2001; only minor improvements since opening
+2015,SD,San Diego Padres,Petco Park,2459752,30367,74,SAN DIEGO,153.45,Petco Park,39860,2004,1,0,NA,Replaced San Diego Stadium in 2004
+2015,SF,San Francisco Giants,AT&T Park,3375882,41678,84,SAN FRANCISCO,241.13,Oracle Park,40260,2000,0,1,2020,Bullpen relocation and center field restructuring; motivation was more player safety than fan experience; not feasible to measure direct impact on attendance since 2020 season had no fans
+2015,SEA,Seattle Mariners,Safeco Field,2193581,27081,76,SEATTLE,212,T-Mobile Park,47574,1999,0,0,NA,NA
+2015,STL,St. Louis Cardinals,Busch Stadium III,3520889,43468,100,ST. LOUIS,236.81,Busch Stadium,43975,2006,1,0,NA,replaced Busch Memorial Stadium in 2006
+2015,TB,Tampa Bay Rays,Tropicana Field,1287054,15322,80,TAMPA BAY,157.6,Tropicana Field,25025,1998,0,1,2014,"major renovations in 2014; roof destroyed by hurricane in 2024, so they played at an alternate (smaller) venue in 2025"
+2015,TEX,Texas Rangers,Globe Life Park in Arlington,2491875,30764,88,TEXAS,190.54,Globe Life Field,40300,2020,1,0,NA,Replaced Globe Life Park in 2020
+2015,TOR,Toronto Blue Jays,Rogers Centre,2794891,34505,93,TORONTO,208.28,Rogers Centre,41500,1989,0,1,2022,"$400 million two-phase renovation--reoriented seats, new outfield social spaces, reduced capacity. Also worth noting that TOR played elsewhere in 2020 and early 2021 due to COVID-related border closures"
+2015,WAS,Washington Nationals,Nationals Park,2619843,32344,83,WASHINGTON,232.08,Nationals Park,41565,2008,1,0,NA,Opened 2008; replacement stadium for the team moving from Montreal
+2014,ARI,Arizona Diamondbacks,"Chase Field, Sydney Cricket Grounds",2073730,25602,64,ARIZONA,126.89,Chase Field,48633,1998,0,0,NA,NA
+2014,ATL,Atlanta Braves,Turner Field,2354305,29065,79,ATLANTA,171.62,Truist Park,41500,2017,1,0,NA,replaced Turner Field
+2014,BAL,Baltimore Orioles,Oriole Park at Camden Yards,2464473,30426,96,BALTIMORE,173.39,Oriole Park,45971,1992,0,1,2011,"seat replacement, suite renovation, capacity reduced"
+2014,BOS,Boston Red Sox,Fenway Park,2956089,36495,71,BOSTON,350.78,Fenway Park,37673,1912,0,1,2003,"multi-phase renovation between 2002-2011; seats added in Green Monster and roof areas, luxury boxes, overhaul of concourse"
+2014,CHC,Chicago Cubs,Wrigley Field,2652113,32742,73,CHICAGO CUBS,304.64,Wrigley Field,41649,1914,0,1,2014,1060 Project--privately funded renovation completed in phases between 2014-2019
+2014,CWS,Chicago White Sox,U.S. Cellular Field,1650821,20381,73,CHICAGO WHITE SOX,210.18,Rate Field,40615,1991,0,1,"2001, 2015","Major $118M overhaul 2001–2004 (seats, concourses, capacity cut); incremental upgrades 2015–2019"
+2014,CIN,Cincinnati Reds,Great American Ball Park,2476664,30576,76,CINCINNATI,168.12,Great American Ball Park,45814,2003,1,0,NA,replaced Cinergy Field
+2014,CLE,Cleveland Indians,Progressive Field,1437393,17746,85,CLEVELAND,162.24,Progressive Field,34830,1994,0,1,"2014, 2023",Two separate waves of large-scale renovations
+2014,COL,Colorado Rockies,Coors Field,2680329,33090,66,COLORADO,201.6,Coors Field,50398,1995,0,0,NA,NA
+2014,DET,Detroit Tigers,Comerica Park,2917209,36015,90,DETROIT,219.88,Comerica Park,41083,2000,0,0,NA,Opened in the first year of my selected time window
+2014,HOU,Houston Astros,Minute Maid Park,1751829,21628,70,HOUSTON,215.9,Daikin Park,40963,2000,0,1,2017,"Additional seating, concessions, escalators, etc."
+2014,KC,Kansas City Royals,Kauffman Stadium,1956482,24154,89,KANSAS CITY,191.91,Kauffman Stadium,40793,1973,0,1,2009,"reduced seating capacity, new entry ticket gates, wider concourses, new concessions/restrooms, outfield kids area, right field sports bar/restaurant"
+2014,LAA,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,3095935,38221,98,CALIFORNIA/ANAHEIM/LA,195.6,Angel Stadium,45050,1966,0,0,NA,"Major renovation completed in 1998, just before my selected time period"
+2014,LAD,Los Angeles Dodgers,Dodger Stadium,3782337,46696,94,LOS ANGELES DODGERS,217.69,Dodger Stadium,56000,1962,0,1,2019,"$100 million renovation included new center field plaza, sports bar/restaurant, new elevators/escalators, new stadium center main entrance, etc."
+2014,MIA,Miami Marlins,Marlins Park,1732283,21386,77,FLORIDA/Miami,221.02,loanDepot Park,37442,2012,1,0,NA,moved from Joe Robbie Center in 2012
+2014,MIL,Milwaukee Brewers,Miller Park,2797384,34536,82,MILWAUKEE,176.84,American Family Field,41900,2001,1,1,2024,$500 million publicly funded renovation beginning in 2024
+2014,MIN,Minnesota Twins,Target Field,2250606,27785,70,MINNESOTA,215.36,Target Field,39504,2010,1,0,NA,Moved from Metrodome in 2010
+2014,NYM,New York Mets,Citi Field,2148808,26528,79,N.Y. METS,229.68,Citi Field,42000,2009,1,0,NA,Replaced Shea Stadium in 2009
+2014,NYY,New York Yankees,Yankee Stadium III,3401624,41995,84,N.Y. YANKEES,337.2,Yankee Stadium,50287,2009,1,0,NA,Replaced original Yankee Stadium in 2009
+2014,ATH,Oakland Athletics,O.co Coliseum,2003628,24736,88,OAKLAND,200.36,Sutter Health Park,14014,2025,1,0,NA,existing Minor League park; Athletics began using the park in 2025
+2014,PHI,Philadelphia Phillies,Citizens Bank Park,2423852,29924,73,PHILADELPHIA,258.18,Citizens Bank Park,43035,2004,1,0,NA,Replaced Veterans Stadium in 2004
+2014,PIT,Pittsburgh Pirates,PNC Park,2442564,30155,88,PITTSBURGH,169.28,PNC Park,38362,2001,1,0,NA,Replaced Three Rivers Stadium in 2001; only minor improvements since opening
+2014,SD,San Diego Padres,Petco Park,2195373,27103,77,SAN DIEGO,153.45,Petco Park,39860,2004,1,0,NA,Replaced San Diego Stadium in 2004
+2014,SF,San Francisco Giants,AT&T Park,3368697,41589,88,SAN FRANCISCO,239.51,Oracle Park,40260,2000,0,1,2020,Bullpen relocation and center field restructuring; motivation was more player safety than fan experience; not feasible to measure direct impact on attendance since 2020 season had no fans
+2014,SEA,Seattle Mariners,Safeco Field,2064334,25486,87,SEATTLE,207.8,T-Mobile Park,47574,1999,0,0,NA,NA
+2014,STL,St. Louis Cardinals,Busch Stadium III,3540649,43712,90,ST. LOUIS,233.86,Busch Stadium,43975,2006,1,0,NA,replaced Busch Memorial Stadium in 2006
+2014,TB,Tampa Bay Rays,Tropicana Field,1446464,17858,77,TAMPA BAY,170.02,Tropicana Field,25025,1998,0,1,2014,"major renovations in 2014; roof destroyed by hurricane in 2024, so they played at an alternate (smaller) venue in 2025"
+2014,TEX,Texas Rangers,Globe Life Park in Arlington,2718733,33565,67,TEXAS,203.14,Globe Life Field,40300,2020,1,0,NA,Replaced Globe Life Park in 2020
+2014,TOR,Toronto Blue Jays,Rogers Centre,2375525,29327,83,TORONTO,217.69,Rogers Centre,41500,1989,0,1,2022,"$400 million two-phase renovation--reoriented seats, new outfield social spaces, reduced capacity. Also worth noting that TOR played elsewhere in 2020 and early 2021 due to COVID-related border closures"
+2014,WAS,Washington Nationals,Nationals Park,2579389,31844,96,WASHINGTON,227.96,Nationals Park,41565,2008,1,0,NA,Opened 2008; replacement stadium for the team moving from Montreal
+2013,ARI,Arizona Diamondbacks,Chase Field,2134895,26357,81,ARIZONA,122.53,Chase Field,48633,1998,0,0,NA,NA
+2013,ATL,Atlanta Braves,Turner Field,2548679,31465,96,ATLANTA,170.78,Truist Park,41500,2017,1,0,NA,replaced Turner Field
+2013,BAL,Baltimore Orioles,Oriole Park at Camden Yards,2357561,29106,85,BALTIMORE,169.06,Oriole Park,45971,1992,0,1,2011,"seat replacement, suite renovation, capacity reduced"
+2013,BOS,Boston Red Sox,Fenway Park,2833333,34979,97,BOSTON,336.99,Fenway Park,37673,1912,0,1,2003,"multi-phase renovation between 2002-2011; seats added in Green Monster and roof areas, luxury boxes, overhaul of concourse"
+2013,CHC,Chicago Cubs,Wrigley Field,2642682,32626,66,CHICAGO CUBS,298.2,Wrigley Field,41649,1914,0,1,2014,1060 Project--privately funded renovation completed in phases between 2014-2019
+2013,CWS,Chicago White Sox,U.S. Cellular Field,1768413,21832,63,CHICAGO WHITE SOX,210.18,Rate Field,40615,1991,0,1,"2001, 2015","Major $118M overhaul 2001–2004 (seats, concourses, capacity cut); incremental upgrades 2015–2019"
+2013,CIN,Cincinnati Reds,Great American Ball Park,2492101,31151,90,CINCINNATI,165.39,Great American Ball Park,45814,2003,1,0,NA,replaced Cinergy Field
+2013,CLE,Cleveland Indians,Progressive Field,1572926,19419,92,CLEVELAND,157.36,Progressive Field,34830,1994,0,1,"2014, 2023",Two separate waves of large-scale renovations
+2013,COL,Colorado Rockies,Coors Field,2793828,34492,74,COLORADO,196.6,Coors Field,50398,1995,0,0,NA,NA
+2013,DET,Detroit Tigers,Comerica Park,3083397,38067,93,DETROIT,207.42,Comerica Park,41083,2000,0,0,NA,Opened in the first year of my selected time window
+2013,HOU,Houston Astros,Minute Maid Park,1651883,20394,51,HOUSTON,224.33,Daikin Park,40963,2000,0,1,2017,"Additional seating, concessions, escalators, etc."
+2013,KC,Kansas City Royals,Kauffman Stadium,1750754,21614,86,KANSAS CITY,172.32,Kauffman Stadium,40793,1973,0,1,2009,"reduced seating capacity, new entry ticket gates, wider concourses, new concessions/restrooms, outfield kids area, right field sports bar/restaurant"
+2013,LAA,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,3019505,37278,78,CALIFORNIA/ANAHEIM/LA,196.16,Angel Stadium,45050,1966,0,0,NA,"Major renovation completed in 1998, just before my selected time period"
+2013,LAD,Los Angeles Dodgers,Dodger Stadium,3743527,46216,92,LOS ANGELES DODGERS,204.95,Dodger Stadium,56000,1962,0,1,2019,"$100 million renovation included new center field plaza, sports bar/restaurant, new elevators/escalators, new stadium center main entrance, etc."
+2013,MIA,Miami Marlins,Marlins Park,1586322,19584,62,FLORIDA/Miami,230.05,loanDepot Park,37442,2012,1,0,NA,moved from Joe Robbie Center in 2012
+2013,MIL,Milwaukee Brewers,Miller Park,2531105,31248,74,MILWAUKEE,176.8,American Family Field,41900,2001,1,1,2024,$500 million publicly funded renovation beginning in 2024
+2013,MIN,Minnesota Twins,Target Field,2477644,30588,66,MINNESOTA,221.36,Target Field,39504,2010,1,0,NA,Moved from Metrodome in 2010
+2013,NYM,New York Mets,Citi Field,2135657,26366,74,N.Y. METS,223.7,Citi Field,42000,2009,1,0,NA,Replaced Shea Stadium in 2009
+2013,NYY,New York Yankees,Yankee Stadium III,3279589,40489,85,N.Y. YANKEES,324.3,Yankee Stadium,50287,2009,1,0,NA,Replaced original Yankee Stadium in 2009
+2013,ATH,Oakland Athletics,O.co Coliseum,1809302,22337,96,OAKLAND,180.48,Sutter Health Park,14014,2025,1,0,NA,existing Minor League park; Athletics began using the park in 2025
+2013,PHI,Philadelphia Phillies,Citizens Bank Park,3012403,37190,73,PHILADELPHIA,257.16,Citizens Bank Park,43035,2004,1,0,NA,Replaced Veterans Stadium in 2004
+2013,PIT,Pittsburgh Pirates,PNC Park,2256862,27862,94,PITTSBURGH,164.84,PNC Park,38362,2001,1,0,NA,Replaced Three Rivers Stadium in 2001; only minor improvements since opening
+2013,SD,San Diego Padres,Petco Park,2166691,26749,76,SAN DIEGO,151.94,Petco Park,39860,2004,1,0,NA,Replaced San Diego Stadium in 2004
+2013,SF,San Francisco Giants,AT&T Park,3369106,41087,76,SAN FRANCISCO,237.87,Oracle Park,40260,2000,0,1,2020,Bullpen relocation and center field restructuring; motivation was more player safety than fan experience; not feasible to measure direct impact on attendance since 2020 season had no fans
+2013,SEA,Seattle Mariners,Safeco Field,1761546,21747,71,SEATTLE,203.78,T-Mobile Park,47574,1999,0,0,NA,NA
+2013,STL,St. Louis Cardinals,Busch Stadium III,3369769,41602,97,ST. LOUIS,230.94,Busch Stadium,43975,2006,1,0,NA,replaced Busch Memorial Stadium in 2006
+2013,TB,Tampa Bay Rays,Tropicana Field,1510300,18646,92,TAMPA BAY,155.54,Tropicana Field,25025,1998,0,1,2014,"major renovations in 2014; roof destroyed by hurricane in 2024, so they played at an alternate (smaller) venue in 2025"
+2013,TEX,Texas Rangers,Rangers Ballpark in Arlington,3178273,38759,91,TEXAS,196.13,Globe Life Field,40300,2020,1,0,NA,Replaced Globe Life Park in 2020
+2013,TOR,Toronto Blue Jays,Rogers Centre,2536562,31316,74,TORONTO,229.84,Rogers Centre,41500,1989,0,1,2022,"$400 million two-phase renovation--reoriented seats, new outfield social spaces, reduced capacity. Also worth noting that TOR played elsewhere in 2020 and early 2021 due to COVID-related border closures"
+2013,WAS,Washington Nationals,Nationals Park,2652422,32746,86,WASHINGTON,236.46,Nationals Park,41565,2008,1,0,NA,Opened 2008; replacement stadium for the team moving from Montreal
+2012,ARI,Arizona Diamondbacks,Chase Field,2177617,26884,81,ARIZONA,145.94,Chase Field,48633,1998,0,0,NA,NA
+2012,ATL,Atlanta Braves,Turner Field,2420171,29879,94,ATLANTA,171.74,Truist Park,41500,2017,1,0,NA,replaced Turner Field
+2012,BAL,Baltimore Orioles,Oriole Park at Camden Yards,2102240,25954,93,BALTIMORE,176.04,Oriole Park,45971,1992,0,1,2011,"seat replacement, suite renovation, capacity reduced"
+2012,BOS,Boston Red Sox,Fenway Park,3043003,37568,69,BOSTON,336.99,Fenway Park,37673,1912,0,1,2003,"multi-phase renovation between 2002-2011; seats added in Green Monster and roof areas, luxury boxes, overhaul of concourse"
+2012,CHC,Chicago Cubs,Wrigley Field,2882756,35590,61,CHICAGO CUBS,300.29,Wrigley Field,41649,1914,0,1,2014,1060 Project--privately funded renovation completed in phases between 2014-2019
+2012,CWS,Chicago White Sox,U.S. Cellular Field,1965955,24271,85,CHICAGO WHITE SOX,222.98,Rate Field,40615,1991,0,1,"2001, 2015","Major $118M overhaul 2001–2004 (seats, concourses, capacity cut); incremental upgrades 2015–2019"
+2012,CIN,Cincinnati Reds,Great American Ball Park,2347251,28978,97,CINCINNATI,165.94,Great American Ball Park,45814,2003,1,0,NA,replaced Cinergy Field
+2012,CLE,Cleveland Indians,Progressive Field,1603596,19797,68,CLEVELAND,173.66,Progressive Field,34830,1994,0,1,"2014, 2023",Two separate waves of large-scale renovations
+2012,COL,Colorado Rockies,Coors Field,2630458,32475,64,COLORADO,184.2,Coors Field,50398,1995,0,0,NA,NA
+2012,DET,Detroit Tigers,Comerica Park,3028033,37383,88,DETROIT,233.49,Comerica Park,41083,2000,0,0,NA,Opened in the first year of my selected time window
+2012,HOU,Houston Astros,Minute Maid Park,1607733,19849,55,HOUSTON,224.33,Daikin Park,40963,2000,0,1,2017,"Additional seating, concessions, escalators, etc."
+2012,KC,Kansas City Royals,Kauffman Stadium,1739859,21480,72,KANSAS CITY,185.33,Kauffman Stadium,40793,1973,0,1,2009,"reduced seating capacity, new entry ticket gates, wider concourses, new concessions/restrooms, outfield kids area, right field sports bar/restaurant"
+2012,LAA,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,3061770,37800,89,CALIFORNIA/ANAHEIM/LA,159.82,Angel Stadium,45050,1966,0,0,NA,"Major renovation completed in 1998, just before my selected time period"
+2012,LAD,Los Angeles Dodgers,Dodger Stadium,3324246,41040,86,LOS ANGELES DODGERS,213.36,Dodger Stadium,56000,1962,0,1,2019,"$100 million renovation included new center field plaza, sports bar/restaurant, new elevators/escalators, new stadium center main entrance, etc."
+2012,MIA,Miami Marlins,Marlins Park,2219444,27401,69,FLORIDA/Miami,242.47,loanDepot Park,37442,2012,1,0,NA,moved from Joe Robbie Center in 2012
+2012,MIL,Milwaukee Brewers,Miller Park,2831385,34955,83,MILWAUKEE,171.52,American Family Field,41900,2001,1,1,2024,$500 million publicly funded renovation beginning in 2024
+2012,MIN,Minnesota Twins,Target Field,2776354,34276,66,MINNESOTA,225.14,Target Field,39504,2010,1,0,NA,Moved from Metrodome in 2010
+2012,NYM,New York Mets,Citi Field,2242803,27689,74,N.Y. METS,230.44,Citi Field,42000,2009,1,0,NA,Replaced Shea Stadium in 2009
+2012,NYY,New York Yankees,Yankee Stadium III,3542406,43733,95,N.Y. YANKEES,324.3,Yankee Stadium,50287,2009,1,0,NA,Replaced original Yankee Stadium in 2009
+2012,ATH,Oakland Athletics,O.co Coliseum,1679013,20729,94,OAKLAND,186.55,Sutter Health Park,14014,2025,1,0,NA,existing Minor League park; Athletics began using the park in 2025
+2012,PHI,Philadelphia Phillies,Citizens Bank Park,3565718,44021,81,PHILADELPHIA,257.16,Citizens Bank Park,43035,2004,1,0,NA,Replaced Veterans Stadium in 2004
+2012,PIT,Pittsburgh Pirates,PNC Park,2091918,25826,79,PITTSBURGH,152.41,PNC Park,38362,2001,1,0,NA,Replaced Three Rivers Stadium in 2001; only minor improvements since opening
+2012,SD,San Diego Padres,Petco Park,2123721,26219,76,SAN DIEGO,150.66,Petco Park,39860,2004,1,0,NA,Replaced San Diego Stadium in 2004
+2012,SF,San Francisco Giants,AT&T Park,3377371,41696,94,SAN FRANCISCO,224.32,Oracle Park,40260,2000,0,1,2020,Bullpen relocation and center field restructuring; motivation was more player safety than fan experience; not feasible to measure direct impact on attendance since 2020 season had no fans
+2012,SEA,Seattle Mariners,Safeco Field,1721920,21258,75,SEATTLE,195.57,T-Mobile Park,47574,1999,0,0,NA,NA
+2012,STL,St. Louis Cardinals,Busch Stadium III,3262109,40273,88,ST. LOUIS,224.76,Busch Stadium,43975,2006,1,0,NA,replaced Busch Memorial Stadium in 2006
+2012,TB,Tampa Bay Rays,Tropicana Field,1559681,19255,90,TAMPA BAY,153.3,Tropicana Field,25025,1998,0,1,2014,"major renovations in 2014; roof destroyed by hurricane in 2024, so they played at an alternate (smaller) venue in 2025"
+2012,TEX,Texas Rangers,Rangers Ballpark in Arlington,3460280,42720,93,TEXAS,183.93,Globe Life Field,40300,2020,1,0,NA,Replaced Globe Life Park in 2020
+2012,TOR,Toronto Blue Jays,Rogers Centre,2099663,25922,73,TORONTO,216.89,Rogers Centre,41500,1989,0,1,2022,"$400 million two-phase renovation--reoriented seats, new outfield social spaces, reduced capacity. Also worth noting that TOR played elsewhere in 2020 and early 2021 due to COVID-related border closures"
+2012,WAS,Washington Nationals,Nationals Park,2370794,29269,98,WASHINGTON,198.16,Nationals Park,41565,2008,1,0,NA,Opened 2008; replacement stadium for the team moving from Montreal
+2011,ARI,Arizona Diamondbacks,Chase Field,2105432,25993,94,ARIZONA,120.96,Chase Field,48633,1998,0,0,NA,NA
+2011,ATL,Atlanta Braves,Turner Field,2372940,29296,89,ATLANTA,169.02,Truist Park,41500,2017,1,0,NA,replaced Turner Field
+2011,BAL,Baltimore Orioles,Oriole Park at Camden Yards,1755461,21672,69,BALTIMORE,174.1,Oriole Park,45971,1992,0,1,2011,"seat replacement, suite renovation, capacity reduced"
+2011,BOS,Boston Red Sox,Fenway Park,3054001,37704,90,BOSTON,339.01,Fenway Park,37673,1912,0,1,2003,"multi-phase renovation between 2002-2011; seats added in Green Monster and roof areas, luxury boxes, overhaul of concourse"
+2011,CHC,Chicago Cubs,Wrigley Field,3017966,37259,71,CHICAGO CUBS,305.6,Wrigley Field,41649,1914,0,1,2014,1060 Project--privately funded renovation completed in phases between 2014-2019
+2011,CWS,Chicago White Sox,U.S. Cellular Field,2001117,24705,79,CHICAGO WHITE SOX,258.68,Rate Field,40615,1991,0,1,"2001, 2015","Major $118M overhaul 2001–2004 (seats, concourses, capacity cut); incremental upgrades 2015–2019"
+2011,CIN,Cincinnati Reds,Great American Ball Park,2213588,27328,79,CINCINNATI,162.24,Great American Ball Park,45814,2003,1,0,NA,replaced Cinergy Field
+2011,CLE,Cleveland Indians,Progressive Field,1840835,22726,80,CLEVELAND,170.96,Progressive Field,34830,1994,0,1,"2014, 2023",Two separate waves of large-scale renovations
+2011,COL,Colorado Rockies,Coors Field,2909777,35923,73,COLORADO,161,Coors Field,50398,1995,0,0,NA,NA
+2011,DET,Detroit Tigers,Comerica Park,2642045,32618,95,DETROIT,207.28,Comerica Park,41083,2000,0,0,NA,Opened in the first year of my selected time window
+2011,MIA,Florida Marlins,Sun Life Stadium,1520562,18772,72,FLORIDA/Miami,170.24,loanDepot Park,37442,2012,1,0,NA,moved from Joe Robbie Center in 2012
+2011,HOU,Houston Astros,Minute Maid Park,2067016,25519,56,HOUSTON,221.36,Daikin Park,40963,2000,0,1,2017,"Additional seating, concessions, escalators, etc."
+2011,KC,Kansas City Royals,Kauffman Stadium,1724450,21290,71,KANSAS CITY,159.8,Kauffman Stadium,40793,1973,0,1,2009,"reduced seating capacity, new entry ticket gates, wider concourses, new concessions/restrooms, outfield kids area, right field sports bar/restaurant"
+2011,LAA,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,3166321,39090,86,CALIFORNIA/ANAHEIM/LA,129.5,Angel Stadium,45050,1966,0,0,NA,"Major renovation completed in 1998, just before my selected time period"
+2011,LAD,Los Angeles Dodgers,Dodger Stadium,2935139,36236,82,LOS ANGELES DODGERS,226.36,Dodger Stadium,56000,1962,0,1,2019,"$100 million renovation included new center field plaza, sports bar/restaurant, new elevators/escalators, new stadium center main entrance, etc."
+2011,MIL,Milwaukee Brewers,Miller Park,3071373,37918,96,MILWAUKEE,160.4,American Family Field,41900,2001,1,1,2024,$500 million publicly funded renovation beginning in 2024
+2011,MIN,Minnesota Twins,Target Field,3168116,39113,63,MINNESOTA,213.16,Target Field,39504,2010,1,0,NA,Moved from Metrodome in 2010
+2011,NYM,New York Mets,Citi Field,2352596,29044,77,N.Y. METS,241.74,Citi Field,42000,2009,1,0,NA,Replaced Shea Stadium in 2009
+2011,NYY,New York Yankees,Yankee Stadium III,3653680,45107,97,N.Y. YANKEES,338.32,Yankee Stadium,50287,2009,1,0,NA,Replaced original Yankee Stadium in 2009
+2011,ATH,Oakland Athletics,O.co Coliseum,1476791,18232,74,OAKLAND,178.09,Sutter Health Park,14014,2025,1,0,NA,existing Minor League park; Athletics began using the park in 2025
+2011,PHI,Philadelphia Phillies,Citizens Bank Park,3680718,45441,102,PHILADELPHIA,240.66,Citizens Bank Park,43035,2004,1,0,NA,Replaced Veterans Stadium in 2004
+2011,PIT,Pittsburgh Pirates,PNC Park,1940429,23956,72,PITTSBURGH,127.71,PNC Park,38362,2001,1,0,NA,Replaced Three Rivers Stadium in 2001; only minor improvements since opening
+2011,SD,San Diego Padres,Petco Park,2143018,26457,71,SAN DIEGO,125.81,Petco Park,39860,2004,1,0,NA,Replaced San Diego Stadium in 2004
+2011,SF,San Francisco Giants,AT&T Park,3387303,41819,86,SAN FRANCISCO,208.15,Oracle Park,40260,2000,0,1,2020,Bullpen relocation and center field restructuring; motivation was more player safety than fan experience; not feasible to measure direct impact on attendance since 2020 season had no fans
+2011,SEA,Seattle Mariners,Safeco Field,1896321,23411,67,SEATTLE,183.59,T-Mobile Park,47574,1999,0,0,NA,NA
+2011,STL,St. Louis Cardinals,Busch Stadium III,3093954,38197,90,ST. LOUIS,223.18,Busch Stadium,43975,2006,1,0,NA,replaced Busch Memorial Stadium in 2006
+2011,TB,Tampa Bay Rays,Tropicana Field,1529188,18879,91,TAMPA BAY,139.68,Tropicana Field,25025,1998,0,1,2014,"major renovations in 2014; roof destroyed by hurricane in 2024, so they played at an alternate (smaller) venue in 2025"
+2011,TEX,Texas Rangers,Rangers Ballpark in Arlington,2946949,36382,96,TEXAS,159.4,Globe Life Field,40300,2020,1,0,NA,Replaced Globe Life Park in 2020
+2011,TOR,Toronto Blue Jays,Rogers Centre,1818103,22446,81,TORONTO,212.68,Rogers Centre,41500,1989,0,1,2022,"$400 million two-phase renovation--reoriented seats, new outfield social spaces, reduced capacity. Also worth noting that TOR played elsewhere in 2020 and early 2021 due to COVID-related border closures"
+2011,WAS,Washington Nationals,Nationals Park,1940478,24256,80,WASHINGTON,196.34,Nationals Park,41565,2008,1,0,NA,Opened 2008; replacement stadium for the team moving from Montreal
+2010,ARI,Arizona Diamondbacks,Chase Field,2056697,25391,65,ARIZONA,115.24,Chase Field,48633,1998,0,0,NA,NA
+2010,ATL,Atlanta Braves,Turner Field,2510119,30989,91,ATLANTA,157.69,Truist Park,41500,2017,1,0,NA,replaced Turner Field
+2010,BAL,Baltimore Orioles,Oriole Park at Camden Yards,1733019,21395,66,BALTIMORE,172.18,Oriole Park,45971,1992,0,1,2011,"seat replacement, suite renovation, capacity reduced"
+2010,BOS,Boston Red Sox,Fenway Park,3046445,37610,89,BOSTON,334.78,Fenway Park,37673,1912,0,1,2003,"multi-phase renovation between 2002-2011; seats added in Green Monster and roof areas, luxury boxes, overhaul of concourse"
+2010,CHC,Chicago Cubs,Wrigley Field,3062973,37814,75,CHICAGO CUBS,329.74,Wrigley Field,41649,1914,0,1,2014,1060 Project--privately funded renovation completed in phases between 2014-2019
+2010,CWS,Chicago White Sox,U.S. Cellular Field,2194378,27091,88,CHICAGO WHITE SOX,249.6,Rate Field,40615,1991,0,1,"2001, 2015","Major $118M overhaul 2001–2004 (seats, concourses, capacity cut); incremental upgrades 2015–2019"
+2010,CIN,Cincinnati Reds,Great American Ball Park,2060550,25439,91,CINCINNATI,151.26,Great American Ball Park,45814,2003,1,0,NA,replaced Cinergy Field
+2010,CLE,Cleveland Indians,Progressive Field,1391644,17181,69,CLEVELAND,180.49,Progressive Field,34830,1994,0,1,"2014, 2023",Two separate waves of large-scale renovations
+2010,COL,Colorado Rockies,Coors Field,2875245,35497,83,COLORADO,161,Coors Field,50398,1995,0,0,NA,NA
+2010,DET,Detroit Tigers,Comerica Park,2461237,30386,81,DETROIT,172.92,Comerica Park,41083,2000,0,0,NA,Opened in the first year of my selected time window
+2010,MIA,Florida Marlins,"Estadio Hiram Bithorn, Sun Life Stadium",1524894,18826,80,FLORIDA/Miami,170.24,loanDepot Park,37442,2012,1,0,NA,moved from Joe Robbie Center in 2012
+2010,HOU,Houston Astros,Minute Maid Park,2331490,28784,76,HOUSTON,212.16,Daikin Park,40963,2000,0,1,2017,"Additional seating, concessions, escalators, etc."
+2010,KC,Kansas City Royals,Kauffman Stadium,1615327,19942,67,KANSAS CITY,161.52,Kauffman Stadium,40793,1973,0,1,2009,"reduced seating capacity, new entry ticket gates, wider concourses, new concessions/restrooms, outfield kids area, right field sports bar/restaurant"
+2010,LAA,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,3250814,40134,80,CALIFORNIA/ANAHEIM/LA,131.8,Angel Stadium,45050,1966,0,0,NA,"Major renovation completed in 1998, just before my selected time period"
+2010,LAD,Los Angeles Dodgers,Dodger Stadium,3562320,43979,80,LOS ANGELES DODGERS,221.64,Dodger Stadium,56000,1962,0,1,2019,"$100 million renovation included new center field plaza, sports bar/restaurant, new elevators/escalators, new stadium center main entrance, etc."
+2010,MIL,Milwaukee Brewers,Miller Park,2776531,34278,77,MILWAUKEE,160.4,American Family Field,41900,2001,1,1,2024,$500 million publicly funded renovation beginning in 2024
+2010,MIN,Minnesota Twins,Target Field,3223640,39798,94,MINNESOTA,206.88,Target Field,39504,2010,1,0,NA,Moved from Metrodome in 2010
+2010,NYM,New York Mets,Citi Field,2559738,31602,79,N.Y. METS,226.88,Citi Field,42000,2009,1,0,NA,Replaced Shea Stadium in 2009
+2010,NYY,New York Yankees,Yankee Stadium III,3765807,46491,95,N.Y. YANKEES,316.32,Yankee Stadium,50287,2009,1,0,NA,Replaced original Yankee Stadium in 2009
+2010,ATH,Oakland Athletics,Oakland-Alameda County Coliseum,1418391,17511,81,OAKLAND,179.16,Sutter Health Park,14014,2025,1,0,NA,existing Minor League park; Athletics began using the park in 2025
+2010,PHI,Philadelphia Phillies,Citizens Bank Park,3777322,44968,97,PHILADELPHIA,227.46,Citizens Bank Park,43035,2004,1,0,NA,Replaced Veterans Stadium in 2004
+2010,PIT,Pittsburgh Pirates,PNC Park,1613399,19919,57,PITTSBURGH,126.56,PNC Park,38362,2001,1,0,NA,Replaced Three Rivers Stadium in 2001; only minor improvements since opening
+2010,SD,San Diego Padres,Petco Park,2131774,26318,90,SAN DIEGO,120.6,Petco Park,39860,2004,1,0,NA,Replaced San Diego Stadium in 2004
+2010,SF,San Francisco Giants,AT&T Park,3037443,37499,92,SAN FRANCISCO,220.66,Oracle Park,40260,2000,0,1,2020,Bullpen relocation and center field restructuring; motivation was more player safety than fan experience; not feasible to measure direct impact on attendance since 2020 season had no fans
+2010,SEA,Seattle Mariners,Safeco Field,2085630,25749,61,SEATTLE,183.6,T-Mobile Park,47574,1999,0,0,NA,NA
+2010,STL,St. Louis Cardinals,Busch Stadium III,3301218,40756,86,ST. LOUIS,216.56,Busch Stadium,43975,2006,1,0,NA,replaced Busch Memorial Stadium in 2006
+2010,TB,Tampa Bay Rays,Tropicana Field,1864999,23025,96,TAMPA BAY,141,Tropicana Field,25025,1998,0,1,2014,"major renovations in 2014; roof destroyed by hurricane in 2024, so they played at an alternate (smaller) venue in 2025"
+2010,TEX,Texas Rangers,Rangers Ballpark in Arlington,2505171,30928,90,TEXAS,167.6,Globe Life Field,40300,2020,1,0,NA,Replaced Globe Life Park in 2020
+2010,TOR,Toronto Blue Jays,Rogers Centre,1495482,19173,85,TORONTO,208.21,Rogers Centre,41500,1989,0,1,2022,"$400 million two-phase renovation--reoriented seats, new outfield social spaces, reduced capacity. Also worth noting that TOR played elsewhere in 2020 and early 2021 due to COVID-related border closures"
+2010,WAS,Washington Nationals,Nationals Park,1828066,22569,69,WASHINGTON,215.52,Nationals Park,41565,2008,1,0,NA,Opened 2008; replacement stadium for the team moving from Montreal
+2009,ARI,Arizona Diamondbacks,Chase Field,2128765,26281,70,ARIZONA,114.24,Chase Field,48633,1998,0,0,NA,NA
+2009,ATL,Atlanta Braves,Turner Field,2373631,29304,86,ATLANTA,157.69,Truist Park,41500,2017,1,0,NA,replaced Turner Field
+2009,BAL,Baltimore Orioles,Oriole Park at Camden Yards,1907163,23545,64,BALTIMORE,163.68,Oriole Park,45971,1992,0,1,2011,"seat replacement, suite renovation, capacity reduced"
+2009,BOS,Boston Red Sox,Fenway Park,3062699,37811,95,BOSTON,326.45,Fenway Park,37673,1912,0,1,2003,"multi-phase renovation between 2002-2011; seats added in Green Monster and roof areas, luxury boxes, overhaul of concourse"
+2009,CHC,Chicago Cubs,Wrigley Field,3168859,39611,83,CHICAGO CUBS,305,Wrigley Field,41649,1914,0,1,2014,1060 Project--privately funded renovation completed in phases between 2014-2019
+2009,CWS,Chicago White Sox,U.S. Cellular Field,2284163,28200,79,CHICAGO WHITE SOX,224.11,Rate Field,40615,1991,0,1,"2001, 2015","Major $118M overhaul 2001–2004 (seats, concourses, capacity cut); incremental upgrades 2015–2019"
+2009,CIN,Cincinnati Reds,Great American Ball Park,1747919,21579,78,CINCINNATI,144.76,Great American Ball Park,45814,2003,1,0,NA,replaced Cinergy Field
+2009,CLE,Cleveland Indians,Progressive Field,1766242,21805,65,CLEVELAND,180.49,Progressive Field,34830,1994,0,1,"2014, 2023",Two separate waves of large-scale renovations
+2009,COL,Colorado Rockies,Coors Field,2665080,32902,92,COLORADO,161,Coors Field,50398,1995,0,0,NA,NA
+2009,DET,Detroit Tigers,Comerica Park,2567165,31693,86,DETROIT,205.02,Comerica Park,41083,2000,0,0,NA,Opened in the first year of my selected time window
+2009,MIA,Florida Marlins,Land Shark Stadium,1464109,18075,87,FLORIDA/Miami,170.24,loanDepot Park,37442,2012,1,0,NA,moved from Joe Robbie Center in 2012
+2009,HOU,Houston Astros,Minute Maid Park,2521076,31124,74,HOUSTON,209.93,Daikin Park,40963,2000,0,1,2017,"Additional seating, concessions, escalators, etc."
+2009,KC,Kansas City Royals,Kauffman Stadium,1797891,22196,65,KANSAS CITY,161.52,Kauffman Stadium,40793,1973,0,1,2009,"reduced seating capacity, new entry ticket gates, wider concourses, new concessions/restrooms, outfield kids area, right field sports bar/restaurant"
+2009,LAA,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,3240386,40005,97,CALIFORNIA/ANAHEIM/LA,141.18,Angel Stadium,45050,1966,0,0,NA,"Major renovation completed in 1998, just before my selected time period"
+2009,LAD,Los Angeles Dodgers,Dodger Stadium,3761655,46440,95,LOS ANGELES DODGERS,221.64,Dodger Stadium,56000,1962,0,1,2019,"$100 million renovation included new center field plaza, sports bar/restaurant, new elevators/escalators, new stadium center main entrance, etc."
+2009,MIL,Milwaukee Brewers,Miller Park,3037451,37499,80,MILWAUKEE,145.92,American Family Field,41900,2001,1,1,2024,$500 million publicly funded renovation beginning in 2024
+2009,MIN,Minnesota Twins,Hubert H. Humphrey Metrodome,2416237,29466,87,MINNESOTA,169.81,Target Field,39504,2010,1,0,NA,Moved from Metrodome in 2010
+2009,NYM,New York Mets,Citi Field,3168571,39118,70,N.Y. METS,258.97,Citi Field,42000,2009,1,0,NA,Replaced Shea Stadium in 2009
+2009,NYY,New York Yankees,Yankee Stadium III,3719358,45918,103,N.Y. YANKEES,410.88,Yankee Stadium,50287,2009,1,0,NA,Replaced original Yankee Stadium in 2009
+2009,ATH,Oakland Athletics,Oakland-Alameda County Coliseum,1408783,17392,75,OAKLAND,187.23,Sutter Health Park,14014,2025,1,0,NA,existing Minor League park; Athletics began using the park in 2025
+2009,PHI,Philadelphia Phillies,Citizens Bank Park,3600693,44453,93,PHILADELPHIA,219.9,Citizens Bank Park,43035,2004,1,0,NA,Replaced Veterans Stadium in 2004
+2009,PIT,Pittsburgh Pirates,PNC Park,1577853,19480,62,PITTSBURGH,135.06,PNC Park,38362,2001,1,0,NA,Replaced Three Rivers Stadium in 2001; only minor improvements since opening
+2009,SD,San Diego Padres,Petco Park,1919603,23699,75,SAN DIEGO,172.04,Petco Park,39860,2004,1,0,NA,Replaced San Diego Stadium in 2004
+2009,SF,San Francisco Giants,AT&T Park,2862110,35335,88,SAN FRANCISCO,222.63,Oracle Park,40260,2000,0,1,2020,Bullpen relocation and center field restructuring; motivation was more player safety than fan experience; not feasible to measure direct impact on attendance since 2020 season had no fans
+2009,SEA,Seattle Mariners,Safeco Field,2195533,27105,85,SEATTLE,184.62,T-Mobile Park,47574,1999,0,0,NA,NA
+2009,STL,St. Louis Cardinals,Busch Stadium III,3343252,41275,91,ST. LOUIS,214.72,Busch Stadium,43975,2006,1,0,NA,replaced Busch Memorial Stadium in 2006
+2009,TB,Tampa Bay Rays,Tropicana Field,1874962,23148,84,TAMPA BAY,165.4,Tropicana Field,25025,1998,0,1,2014,"major renovations in 2014; roof destroyed by hurricane in 2024, so they played at an alternate (smaller) venue in 2025"
+2009,TEX,Texas Rangers,Rangers Ballpark in Arlington,2156016,26617,87,TEXAS,150.64,Globe Life Field,40300,2020,1,0,NA,Replaced Globe Life Park in 2020
+2009,TOR,Toronto Blue Jays,Rogers Centre,1876129,23162,75,TORONTO,166.39,Rogers Centre,41500,1989,0,1,2022,"$400 million two-phase renovation--reoriented seats, new outfield social spaces, reduced capacity. Also worth noting that TOR played elsewhere in 2020 and early 2021 due to COVID-related border closures"
+2009,WAS,Washington Nationals,Nationals Park,1817226,22435,59,WASHINGTON,215.52,Nationals Park,41565,2008,1,0,NA,Opened 2008; replacement stadium for the team moving from Montreal
+2008,ARI,Arizona Diamondbacks,Chase Field,2509924,30987,82,ARIZONA,162.84,Chase Field,48633,1998,0,0,NA,NA
+2008,ATL,Atlanta Braves,Turner Field,2532834,31270,72,ATLANTA,157.19,Truist Park,41500,2017,1,0,NA,replaced Turner Field
+2008,BAL,Baltimore Orioles,Oriole Park at Camden Yards,1950075,24376,68,BALTIMORE,165.4,Oriole Park,45971,1992,0,1,2011,"seat replacement, suite renovation, capacity reduced"
+2008,BOS,Boston Red Sox,Fenway Park,3048250,37633,95,BOSTON,320.71,Fenway Park,37673,1912,0,1,2003,"multi-phase renovation between 2002-2011; seats added in Green Monster and roof areas, luxury boxes, overhaul of concourse"
+2008,CHC,Chicago Cubs,Wrigley Field,3300200,40743,97,CHICAGO CUBS,251.96,Wrigley Field,41649,1914,0,1,2014,1060 Project--privately funded renovation completed in phases between 2014-2019
+2008,CWS,Chicago White Sox,U.S. Cellular Field,2500648,30496,89,CHICAGO WHITE SOX,214.61,Rate Field,40615,1991,0,1,"2001, 2015","Major $118M overhaul 2001–2004 (seats, concourses, capacity cut); incremental upgrades 2015–2019"
+2008,CIN,Cincinnati Reds,Great American Ball Park,2058632,25415,74,CINCINNATI,167.14,Great American Ball Park,45814,2003,1,0,NA,replaced Cinergy Field
+2008,CLE,Cleveland Indians,Progressive Field,2169760,26787,81,CLEVELAND,192.38,Progressive Field,34830,1994,0,1,"2014, 2023",Two separate waves of large-scale renovations
+2008,COL,Colorado Rockies,Coors Field,2650218,32719,74,COLORADO,160,Coors Field,50398,1995,0,0,NA,NA
+2008,DET,Detroit Tigers,Comerica Park,3202645,39539,74,DETROIT,190.13,Comerica Park,41083,2000,0,0,NA,Opened in the first year of my selected time window
+2008,MIA,Florida Marlins,Dolphin Stadium,1335076,16482,84,FLORIDA/Miami,164.26,loanDepot Park,37442,2012,1,0,NA,moved from Joe Robbie Center in 2012
+2008,HOU,Houston Astros,"Miller Park, Minute Maid Park",2779487,34744,86,HOUSTON,215.43,Daikin Park,40963,2000,0,1,2017,"Additional seating, concessions, escalators, etc."
+2008,KC,Kansas City Royals,Kauffman Stadium,1578922,19493,75,KANSAS CITY,151.16,Kauffman Stadium,40793,1973,0,1,2009,"reduced seating capacity, new entry ticket gates, wider concourses, new concessions/restrooms, outfield kids area, right field sports bar/restaurant"
+2008,LAA,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,3336747,41194,100,CALIFORNIA/ANAHEIM/LA,140.42,Angel Stadium,45050,1966,0,0,NA,"Major renovation completed in 1998, just before my selected time period"
+2008,LAD,Los Angeles Dodgers,Dodger Stadium,3730553,46056,84,LOS ANGELES DODGERS,229.14,Dodger Stadium,56000,1962,0,1,2019,"$100 million renovation included new center field plaza, sports bar/restaurant, new elevators/escalators, new stadium center main entrance, etc."
+2008,MIL,Milwaukee Brewers,Miller Park,3068458,37882,90,MILWAUKEE,141.52,American Family Field,41900,2001,1,1,2024,$500 million publicly funded renovation beginning in 2024
+2008,MIN,Minnesota Twins,Hubert H. Humphrey Metrodome,2302431,28425,88,MINNESOTA,165.71,Target Field,39504,2010,1,0,NA,Moved from Metrodome in 2010
+2008,NYM,New York Mets,Shea Stadium,4042045,49902,89,N.Y. METS,251.19,Citi Field,42000,2009,1,0,NA,Replaced Shea Stadium in 2009
+2008,NYY,New York Yankees,Yankee Stadium II,4298655,53070,89,N.Y. YANKEES,259.84,Yankee Stadium,50287,2009,1,0,NA,Replaced original Yankee Stadium in 2009
+2008,ATH,Oakland Athletics,"McAfee Coliseum, Tokyo Dome",1665256,20559,75,OAKLAND,206.8,Sutter Health Park,14014,2025,1,0,NA,existing Minor League park; Athletics began using the park in 2025
+2008,PHI,Philadelphia Phillies,Citizens Bank Park,3422583,42254,92,PHILADELPHIA,199.56,Citizens Bank Park,43035,2004,1,0,NA,Replaced Veterans Stadium in 2004
+2008,PIT,Pittsburgh Pirates,PNC Park,1609076,19865,67,PITTSBURGH,146.32,PNC Park,38362,2001,1,0,NA,Replaced Three Rivers Stadium in 2001; only minor improvements since opening
+2008,SD,San Diego Padres,Petco Park,2427535,29970,63,SAN DIEGO,201.72,Petco Park,39860,2004,1,0,NA,Replaced San Diego Stadium in 2004
+2008,SF,San Francisco Giants,AT&T Park,2863837,35356,72,SAN FRANCISCO,183.74,Oracle Park,40260,2000,0,1,2020,Bullpen relocation and center field restructuring; motivation was more player safety than fan experience; not feasible to measure direct impact on attendance since 2020 season had no fans
+2008,SEA,Seattle Mariners,Safeco Field,2329702,28762,61,SEATTLE,191.16,T-Mobile Park,47574,1999,0,0,NA,NA
+2008,STL,St. Louis Cardinals,Busch Stadium III,3432917,42382,86,ST. LOUIS,217.28,Busch Stadium,43975,2006,1,0,NA,replaced Busch Memorial Stadium in 2006
+2008,TB,Tampa Bay Rays,"Ballpark at Disney's Wide World of Sports, Tropicana Field",1811986,22370,97,TAMPA BAY,136.91,Tropicana Field,25025,1998,0,1,2014,"major renovations in 2014; roof destroyed by hurricane in 2024, so they played at an alternate (smaller) venue in 2025"
+2008,TEX,Texas Rangers,Rangers Ballpark in Arlington,1945677,24021,79,TEXAS,148.04,Globe Life Field,40300,2020,1,0,NA,Replaced Globe Life Park in 2020
+2008,TOR,Toronto Blue Jays,Rogers Centre,2399786,29627,86,TORONTO,230.46,Rogers Centre,41500,1989,0,1,2022,"$400 million two-phase renovation--reoriented seats, new outfield social spaces, reduced capacity. Also worth noting that TOR played elsewhere in 2020 and early 2021 due to COVID-related border closures"
+2008,WAS,Washington Nationals,Nationals Park,2320400,2,59,WASHINGTON,195.5,Nationals Park,41565,2008,1,0,NA,Opened 2008; replacement stadium for the team moving from Montreal
+2007,ARI,Arizona Diamondbacks,Chase Field,2325249,28707,90,ARIZONA,154.71,Chase Field,48633,1998,0,0,NA,NA
+2007,ATL,Atlanta Braves,Turner Field,2745207,33891,84,ATLANTA,150.68,Truist Park,41500,2017,1,0,NA,replaced Turner Field
+2007,BAL,Baltimore Orioles,Oriole Park at Camden Yards,2164822,26726,69,BALTIMORE,159.79,Oriole Park,45971,1992,0,1,2011,"seat replacement, suite renovation, capacity reduced"
+2007,BOS,Boston Red Sox,Fenway Park,2970755,36676,96,BOSTON,313.83,Fenway Park,37673,1912,0,1,2003,"multi-phase renovation between 2002-2011; seats added in Green Monster and roof areas, luxury boxes, overhaul of concourse"
+2007,CHC,Chicago Cubs,Wrigley Field,3252462,40154,85,CHICAGO CUBS,219.21,Wrigley Field,41649,1914,0,1,2014,1060 Project--privately funded renovation completed in phases between 2014-2019
+2007,CWS,Chicago White Sox,U.S. Cellular Field,2684395,33141,72,CHICAGO WHITE SOX,205.63,Rate Field,40615,1991,0,1,"2001, 2015","Major $118M overhaul 2001–2004 (seats, concourses, capacity cut); incremental upgrades 2015–2019"
+2007,CIN,Cincinnati Reds,Great American Ball Park,2058593,25415,72,CINCINNATI,158.35,Great American Ball Park,45814,2003,1,0,NA,replaced Cinergy Field
+2007,CLE,Cleveland Indians,"Jacobs Field, Miller Park",2275912,28449,96,CLEVELAND,156.77,Progressive Field,34830,1994,0,1,"2014, 2023",Two separate waves of large-scale renovations
+2007,COL,Colorado Rockies,Coors Field,2376250,28979,90,COLORADO,148,Coors Field,50398,1995,0,0,NA,NA
+2007,DET,Detroit Tigers,Comerica Park,3047133,37619,88,DETROIT,166.8,Comerica Park,41083,2000,0,0,NA,Opened in the first year of my selected time window
+2007,MIA,Florida Marlins,Dolphin Stadium,1370511,16920,71,FLORIDA/Miami,155.78,loanDepot Park,37442,2012,1,0,NA,moved from Joe Robbie Center in 2012
+2007,HOU,Houston Astros,Minute Maid Park,3020405,37289,73,HOUSTON,195.59,Daikin Park,40963,2000,0,1,2017,"Additional seating, concessions, escalators, etc."
+2007,KC,Kansas City Royals,Kauffman Stadium,1616867,19961,69,KANSAS CITY,123.42,Kauffman Stadium,40793,1973,0,1,2009,"reduced seating capacity, new entry ticket gates, wider concourses, new concessions/restrooms, outfield kids area, right field sports bar/restaurant"
+2007,LAA,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,3365632,41551,94,CALIFORNIA/ANAHEIM/LA,136.63,Angel Stadium,45050,1966,0,0,NA,"Major renovation completed in 1998, just before my selected time period"
+2007,LAD,Los Angeles Dodgers,Dodger Stadium,3857036,47618,82,LOS ANGELES DODGERS,210.63,Dodger Stadium,56000,1962,0,1,2019,"$100 million renovation included new center field plaza, sports bar/restaurant, new elevators/escalators, new stadium center main entrance, etc."
+2007,MIL,Milwaukee Brewers,Miller Park,2869144,35422,83,MILWAUKEE,134.77,American Family Field,41900,2001,1,1,2024,$500 million publicly funded renovation beginning in 2024
+2007,MIN,Minnesota Twins,Hubert H. Humphrey Metrodome,2296383,28350,79,MINNESOTA,158.07,Target Field,39504,2010,1,0,NA,Moved from Metrodome in 2010
+2007,NYM,New York Mets,Shea Stadium,3853955,47580,88,N.Y. METS,219.04,Citi Field,42000,2009,1,0,NA,Replaced Shea Stadium in 2009
+2007,NYY,New York Yankees,Yankee Stadium II,4271083,52729,94,N.Y. YANKEES,222.53,Yankee Stadium,50287,2009,1,0,NA,Replaced original Yankee Stadium in 2009
+2007,ATH,Oakland Athletics,McAfee Coliseum,1921844,23726,76,OAKLAND,185.53,Sutter Health Park,14014,2025,1,0,NA,existing Minor League park; Athletics began using the park in 2025
+2007,PHI,Philadelphia Phillies,Citizens Bank Park,3108325,38374,89,PHILADELPHIA,196,Citizens Bank Park,43035,2004,1,0,NA,Replaced Veterans Stadium in 2004
+2007,PIT,Pittsburgh Pirates,PNC Park,1749142,21594,68,PITTSBURGH,139.77,PNC Park,38362,2001,1,0,NA,Replaced Three Rivers Stadium in 2001; only minor improvements since opening
+2007,SD,San Diego Padres,Petco Park,2790074,34445,89,SAN DIEGO,168.03,Petco Park,39860,2004,1,0,NA,Replaced San Diego Stadium in 2004
+2007,SF,San Francisco Giants,AT&T Park,3223215,39793,71,SAN FRANCISCO,212.95,Oracle Park,40260,2000,0,1,2020,Bullpen relocation and center field restructuring; motivation was more player safety than fan experience; not feasible to measure direct impact on attendance since 2020 season had no fans
+2007,SEA,Seattle Mariners,Safeco Field,2672223,32588,88,SEATTLE,186.03,T-Mobile Park,47574,1999,0,0,NA,NA
+2007,STL,St. Louis Cardinals,Busch Stadium III,3552180,43854,78,ST. LOUIS,209.23,Busch Stadium,43975,2006,1,0,NA,replaced Busch Memorial Stadium in 2006
+2007,TB,Tampa Bay Devil Rays,"Ballpark at Disney's Wide World of Sports, Tropicana Field",1387603,17131,66,TAMPA BAY,136.91,Tropicana Field,25025,1998,0,1,2014,"major renovations in 2014; roof destroyed by hurricane in 2024, so they played at an alternate (smaller) venue in 2025"
+2007,TEX,Texas Rangers,Ameriquest Field,2353862,29060,75,TEXAS,141.88,Globe Life Field,40300,2020,1,0,NA,Replaced Globe Life Park in 2020
+2007,TOR,Toronto Blue Jays,Rogers Centre,2360644,29144,83,TORONTO,182.51,Rogers Centre,41500,1989,0,1,2022,"$400 million two-phase renovation--reoriented seats, new outfield social spaces, reduced capacity. Also worth noting that TOR played elsewhere in 2020 and early 2021 due to COVID-related border closures"
+2007,WAS,Washington Nationals,Robert F. Kennedy Stadium,1943812,23998,73,WASHINGTON,147.94,Nationals Park,41565,2008,1,0,NA,Opened 2008; replacement stadium for the team moving from Montreal
+2006,ARI,Arizona Diamondbacks,Chase Field,2091685,25823,76,ARIZONA,147.71,Chase Field,48633,1998,0,0,NA,NA
+2006,ATL,Atlanta Braves,Turner Field,2550524,31488,79,ATLANTA,145.78,Truist Park,41500,2017,1,0,NA,replaced Turner Field
+2006,BAL,Baltimore Orioles,Oriole Park at Camden Yards,2153139,26582,70,BALTIMORE,158.62,Oriole Park,45971,1992,0,1,2011,"seat replacement, suite renovation, capacity reduced"
+2006,BOS,Boston Red Sox,Fenway Park,2930588,36180,86,BOSTON,287.84,Fenway Park,37673,1912,0,1,2003,"multi-phase renovation between 2002-2011; seats added in Green Monster and roof areas, luxury boxes, overhaul of concourse"
+2006,CHC,Chicago Cubs,Wrigley Field,3123215,38558,66,CHICAGO CUBS,219.21,Wrigley Field,41649,1914,0,1,2014,1060 Project--privately funded renovation completed in phases between 2014-2019
+2006,CWS,Chicago White Sox,U.S. Cellular Field,2957414,36511,90,CHICAGO WHITE SOX,191.26,Rate Field,40615,1991,0,1,"2001, 2015","Major $118M overhaul 2001–2004 (seats, concourses, capacity cut); incremental upgrades 2015–2019"
+2006,CIN,Cincinnati Reds,Great American Ball Park,2134607,26353,80,CINCINNATI,156.6,Great American Ball Park,45814,2003,1,0,NA,replaced Cinergy Field
+2006,CLE,Cleveland Indians,Jacobs Field,1997995,24667,78,CLEVELAND,157.66,Progressive Field,34830,1994,0,1,"2014, 2023",Two separate waves of large-scale renovations
+2006,COL,Colorado Rockies,Coors Field,2104362,25980,76,COLORADO,140.88,Coors Field,50398,1995,0,0,NA,NA
+2006,DET,Detroit Tigers,Comerica Park,2595937,32049,95,DETROIT,162.93,Comerica Park,41083,2000,0,0,NA,Opened in the first year of my selected time window
+2006,MIA,Florida Marlins,Dolphins Stadium,1164134,14372,78,FLORIDA/Miami,154.12,loanDepot Park,37442,2012,1,0,NA,moved from Joe Robbie Center in 2012
+2006,HOU,Houston Astros,Minute Maid Park,3022763,37318,82,HOUSTON,191.78,Daikin Park,40963,2000,0,1,2017,"Additional seating, concessions, escalators, etc."
+2006,KC,Kansas City Royals,Kauffman Stadium,1372638,16946,62,KANSAS CITY,120.35,Kauffman Stadium,40793,1973,0,1,2009,"reduced seating capacity, new entry ticket gates, wider concourses, new concessions/restrooms, outfield kids area, right field sports bar/restaurant"
+2006,LAA,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,3406790,42059,89,CALIFORNIA/ANAHEIM/LA,134.32,Angel Stadium,45050,1966,0,0,NA,"Major renovation completed in 1998, just before my selected time period"
+2006,LAD,Los Angeles Dodgers,Dodger Stadium,3758545,46402,88,LOS ANGELES DODGERS,175.36,Dodger Stadium,56000,1962,0,1,2019,"$100 million renovation included new center field plaza, sports bar/restaurant, new elevators/escalators, new stadium center main entrance, etc."
+2006,MIL,Milwaukee Brewers,Miller Park,2335643,28835,75,MILWAUKEE,131.94,American Family Field,41900,2001,1,1,2024,$500 million publicly funded renovation beginning in 2024
+2006,MIN,Minnesota Twins,Hubert H. Humphrey Metrodome,2285018,28210,96,MINNESOTA,149.04,Target Field,39504,2010,1,0,NA,Moved from Metrodome in 2010
+2006,NYM,New York Mets,Shea Stadium,3379535,41723,97,N.Y. METS,207.13,Citi Field,42000,2009,1,0,NA,Replaced Shea Stadium in 2009
+2006,NYY,New York Yankees,Yankee Stadium II,4248067,52445,97,N.Y. YANKEES,208.57,Yankee Stadium,50287,2009,1,0,NA,Replaced original Yankee Stadium in 2009
+2006,ATH,Oakland Athletics,McAfee Coliseum,1976625,24403,93,OAKLAND,170.41,Sutter Health Park,14014,2025,1,0,NA,existing Minor League park; Athletics began using the park in 2025
+2006,PHI,Philadelphia Phillies,Citizens Bank Park,2701815,33356,85,PHILADELPHIA,193.91,Citizens Bank Park,43035,2004,1,0,NA,Replaced Veterans Stadium in 2004
+2006,PIT,Pittsburgh Pirates,PNC Park,1861549,22982,67,PITTSBURGH,138.81,PNC Park,38362,2001,1,0,NA,Replaced Three Rivers Stadium in 2001; only minor improvements since opening
+2006,SD,San Diego Padres,Petco Park,2659757,32837,88,SAN DIEGO,180.32,Petco Park,39860,2004,1,0,NA,Replaced San Diego Stadium in 2004
+2006,SF,San Francisco Giants,AT&T Park,3130313,38646,76,SAN FRANCISCO,201.62,Oracle Park,40260,2000,0,1,2020,Bullpen relocation and center field restructuring; motivation was more player safety than fan experience; not feasible to measure direct impact on attendance since 2020 season had no fans
+2006,SEA,Seattle Mariners,Safeco Field,2481165,30632,78,SEATTLE,186.03,T-Mobile Park,47574,1999,0,0,NA,NA
+2006,STL,St. Louis Cardinals,Busch Stadium III,3407104,42589,83,ST. LOUIS,207.21,Busch Stadium,43975,2006,1,0,NA,replaced Busch Memorial Stadium in 2006
+2006,TB,Tampa Bay Devil Rays,Tropicana Field,1368950,16901,61,TAMPA BAY,129.87,Tropicana Field,25025,1998,0,1,2014,"major renovations in 2014; roof destroyed by hurricane in 2024, so they played at an alternate (smaller) venue in 2025"
+2006,TEX,Texas Rangers,Ameriquest Field,2388757,29491,80,TEXAS,134.24,Globe Life Field,40300,2020,1,0,NA,Replaced Globe Life Park in 2020
+2006,TOR,Toronto Blue Jays,Rogers Centre,2302212,28422,87,TORONTO,182.71,Rogers Centre,41500,1989,0,1,2022,"$400 million two-phase renovation--reoriented seats, new outfield social spaces, reduced capacity. Also worth noting that TOR played elsewhere in 2020 and early 2021 due to COVID-related border closures"
+2006,WAS,Washington Nationals,Robert F. Kennedy Stadium,2153056,26581,71,WASHINGTON,169.51,Nationals Park,41565,2008,1,0,NA,Opened 2008; replacement stadium for the team moving from Montreal
+2005,ARI,Arizona Diamondbacks,Bank One Ballpark,2059424,25425,77,ARIZONA,145.97,Chase Field,48633,1998,0,0,NA,NA
+2005,ATL,Atlanta Braves,Turner Field,2521167,31126,90,ATLANTA,145.55,Truist Park,41500,2017,1,0,NA,replaced Turner Field
+2005,BAL,Baltimore Orioles,Oriole Park at Camden Yards,2624740,32404,74,BALTIMORE,158.62,Oriole Park,45971,1992,0,1,2011,"seat replacement, suite renovation, capacity reduced"
+2005,BOS,Boston Red Sox,Fenway Park,2847888,35159,95,BOSTON,276.24,Fenway Park,37673,1912,0,1,2003,"multi-phase renovation between 2002-2011; seats added in Green Monster and roof areas, luxury boxes, overhaul of concourse"
+2005,CHC,Chicago Cubs,Wrigley Field,3099992,38272,79,CHICAGO CUBS,210.01,Wrigley Field,41649,1914,0,1,2014,1060 Project--privately funded renovation completed in phases between 2014-2019
+2005,CWS,Chicago White Sox,U.S. Cellular Field,2342833,28924,99,CHICAGO WHITE SOX,188.07,Rate Field,40615,1991,0,1,"2001, 2015","Major $118M overhaul 2001–2004 (seats, concourses, capacity cut); incremental upgrades 2015–2019"
+2005,CIN,Cincinnati Reds,Great American Ball Park,1943067,23696,73,CINCINNATI,145.1,Great American Ball Park,45814,2003,1,0,NA,replaced Cinergy Field
+2005,CLE,Cleveland Indians,Jacobs Field,2013763,24861,93,CLEVELAND,156.18,Progressive Field,34830,1994,0,1,"2014, 2023",Two separate waves of large-scale renovations
+2005,COL,Colorado Rockies,Coors Field,1914389,23634,67,COLORADO,141.68,Coors Field,50398,1995,0,0,NA,NA
+2005,DET,Detroit Tigers,Comerica Park,2024431,24993,71,DETROIT,157.93,Comerica Park,41083,2000,0,0,NA,Opened in the first year of my selected time window
+2005,MIA,Florida Marlins,Dolphins Stadium,1852608,22872,83,FLORIDA/Miami,147.04,loanDepot Park,37442,2012,1,0,NA,moved from Joe Robbie Center in 2012
+2005,HOU,Houston Astros,Minute Maid Park,2804760,34627,89,HOUSTON,182.64,Daikin Park,40963,2000,0,1,2017,"Additional seating, concessions, escalators, etc."
+2005,KC,Kansas City Royals,Kauffman Stadium,1371181,16928,56,KANSAS CITY,119.85,Kauffman Stadium,40793,1973,0,1,2009,"reduced seating capacity, new entry ticket gates, wider concourses, new concessions/restrooms, outfield kids area, right field sports bar/restaurant"
+2005,LAA,Los Angeles Angels of Anaheim,Angel Stadium of Anaheim,3404686,42033,95,CALIFORNIA/ANAHEIM/LA,125.78,Angel Stadium,45050,1966,0,0,NA,"Major renovation completed in 1998, just before my selected time period"
+2005,LAD,Los Angeles Dodgers,Dodger Stadium,3603646,44489,71,LOS ANGELES DODGERS,158.98,Dodger Stadium,56000,1962,0,1,2019,"$100 million renovation included new center field plaza, sports bar/restaurant, new elevators/escalators, new stadium center main entrance, etc."
+2005,MIL,Milwaukee Brewers,Miller Park,2211023,27297,81,MILWAUKEE,130.96,American Family Field,41900,2001,1,1,2024,$500 million publicly funded renovation beginning in 2024
+2005,MIN,Minnesota Twins,Hubert H. Humphrey Metrodome,2034243,25114,83,MINNESOTA,146.49,Target Field,39504,2010,1,0,NA,Moved from Metrodome in 2010
+2005,NYM,New York Mets,Shea Stadium,2829929,34937,83,N.Y. METS,185.13,Citi Field,42000,2009,1,0,NA,Replaced Shea Stadium in 2009
+2005,NYY,New York Yankees,Yankee Stadium II,4090696,50502,95,N.Y. YANKEES,193.86,Yankee Stadium,50287,2009,1,0,NA,Replaced original Yankee Stadium in 2009
+2005,ATH,Oakland Athletics,McAfee Coliseum,2109118,26038,88,OAKLAND,152.64,Sutter Health Park,14014,2025,1,0,NA,existing Minor League park; Athletics began using the park in 2025
+2005,PHI,Philadelphia Phillies,Citizens Bank Park,2665304,32905,88,PHILADELPHIA,189.31,Citizens Bank Park,43035,2004,1,0,NA,Replaced Veterans Stadium in 2004
+2005,PIT,Pittsburgh Pirates,PNC Park,1817245,22435,67,PITTSBURGH,143.31,PNC Park,38362,2001,1,0,NA,Replaced Three Rivers Stadium in 2001; only minor improvements since opening
+2005,SD,San Diego Padres,Petco Park,2869787,35429,82,SAN DIEGO,176.32,Petco Park,39860,2004,1,0,NA,Replaced San Diego Stadium in 2004
+2005,SF,San Francisco Giants,SBC Park,3181023,39272,75,SAN FRANCISCO,191.37,Oracle Park,40260,2000,0,1,2020,Bullpen relocation and center field restructuring; motivation was more player safety than fan experience; not feasible to measure direct impact on attendance since 2020 season had no fans
+2005,SEA,Seattle Mariners,Safeco Field,2725459,33648,69,SEATTLE,172.03,T-Mobile Park,47574,1999,0,0,NA,NA
+2005,STL,St. Louis Cardinals,Busch Stadium II,3538988,43691,100,ST. LOUIS,177.66,Busch Stadium,43975,2006,1,0,NA,replaced Busch Memorial Stadium in 2006
+2005,TB,Tampa Bay Devil Rays,Tropicana Field,1141669,14095,67,TAMPA BAY,143.81,Tropicana Field,25025,1998,0,1,2014,"major renovations in 2014; roof destroyed by hurricane in 2024, so they played at an alternate (smaller) venue in 2025"
+2005,TEX,Texas Rangers,Ameriquest Field,2525221,31176,79,TEXAS,136.14,Globe Life Field,40300,2020,1,0,NA,Replaced Globe Life Park in 2020
+2005,TOR,Toronto Blue Jays,Rogers Centre,2014995,24876,80,TORONTO,164.53,Rogers Centre,41500,1989,0,1,2022,"$400 million two-phase renovation--reoriented seats, new outfield social spaces, reduced capacity. Also worth noting that TOR played elsewhere in 2020 and early 2021 due to COVID-related border closures"
+2005,WAS,Washington Nationals,Robert F. Kennedy Stadium,2731993,33728,81,WASHINGTON,169.72,Nationals Park,41565,2008,1,0,NA,Opened 2008; replacement stadium for the team moving from Montreal
+2004,LAA,Anaheim Angels,Angel Stadium of Anaheim,3375677,41675,92,CALIFORNIA/ANAHEIM/LA,133.01,Angel Stadium,45050,1966,0,0,NA,"Major renovation completed in 1998, just before my selected time period"
+2004,ARI,Arizona Diamondbacks,Bank One Ballpark,2519560,31106,51,ARIZONA,132.92,Chase Field,48633,1998,0,0,NA,NA
+2004,ATL,Atlanta Braves,Turner Field,2327565,28735,96,ATLANTA,144.55,Truist Park,41500,2017,1,0,NA,replaced Turner Field
+2004,BAL,Baltimore Orioles,Oriole Park at Camden Yards,2744018,33877,78,BALTIMORE,157.62,Oriole Park,45971,1992,0,1,2011,"seat replacement, suite renovation, capacity reduced"
+2004,BOS,Boston Red Sox,Fenway Park,2837294,35028,98,BOSTON,263.09,Fenway Park,37673,1912,0,1,2003,"multi-phase renovation between 2002-2011; seats added in Green Monster and roof areas, luxury boxes, overhaul of concourse"
+2004,CHC,Chicago Cubs,Wrigley Field,3170154,38660,89,CHICAGO CUBS,194.31,Wrigley Field,41649,1914,0,1,2014,1060 Project--privately funded renovation completed in phases between 2014-2019
+2004,CWS,Chicago White Sox,U.S. Cellular Field,1930537,23834,83,CHICAGO WHITE SOX,171.35,Rate Field,40615,1991,0,1,"2001, 2015","Major $118M overhaul 2001–2004 (seats, concourses, capacity cut); incremental upgrades 2015–2019"
+2004,CIN,Cincinnati Reds,Great American Ball Park,2287250,28238,76,CINCINNATI,140.6,Great American Ball Park,45814,2003,1,0,NA,replaced Cinergy Field
+2004,CLE,Cleveland Indians,Jacobs Field,1814401,22400,80,CLEVELAND,152.65,Progressive Field,34830,1994,0,1,"2014, 2023",Two separate waves of large-scale renovations
+2004,COL,Colorado Rockies,Coors Field,2338069,28865,68,COLORADO,140.9,Coors Field,50398,1995,0,0,NA,NA
+2004,DET,Detroit Tigers,Comerica Park,1917004,23667,72,DETROIT,149.61,Comerica Park,41083,2000,0,0,NA,Opened in the first year of my selected time window
+2004,MIA,Florida Marlins,"Pro Player Stadium, U.S. Cellular Field",1723105,21539,83,FLORIDA/Miami,112.88,loanDepot Park,37442,2012,1,0,NA,moved from Joe Robbie Center in 2012
+2004,HOU,Houston Astros,Minute Maid Park,3087872,38122,92,HOUSTON,176.99,Daikin Park,40963,2000,0,1,2017,"Additional seating, concessions, escalators, etc."
+2004,KC,Kansas City Royals,Kauffman Stadium,1661478,20768,58,KANSAS CITY,120.67,Kauffman Stadium,40793,1973,0,1,2009,"reduced seating capacity, new entry ticket gates, wider concourses, new concessions/restrooms, outfield kids area, right field sports bar/restaurant"
+2004,LAD,Los Angeles Dodgers,Dodger Stadium,3488283,43065,93,LOS ANGELES DODGERS,151.71,Dodger Stadium,56000,1962,0,1,2019,"$100 million renovation included new center field plaza, sports bar/restaurant, new elevators/escalators, new stadium center main entrance, etc."
+2004,MIL,Milwaukee Brewers,Miller Park,2062382,25462,67,MILWAUKEE,124.96,American Family Field,41900,2001,1,1,2024,$500 million publicly funded renovation beginning in 2024
+2004,MIN,Minnesota Twins,Hubert H. Humphrey Metrodome,1911490,23599,92,MINNESOTA,131.68,Target Field,39504,2010,1,0,NA,Moved from Metrodome in 2010
+2004,WAS,Montreal Expos,"Estadio Hiram Bithorn, Stade Olympique",749550,9369,67,WASHINGTON,108.83,Nationals Park,41565,2008,1,0,NA,Opened 2008; replacement stadium for the team moving from Montreal
+2004,NYM,New York Mets,Shea Stadium,2318951,28629,71,N.Y. METS,184.77,Citi Field,42000,2009,1,0,NA,Replaced Shea Stadium in 2009
+2004,NYY,New York Yankees,Yankee Stadium II,3775292,46609,101,N.Y. YANKEES,193.86,Yankee Stadium,50287,2009,1,0,NA,Replaced original Yankee Stadium in 2009
+2004,ATH,Oakland Athletics,Network Associates Coliseum,2201516,27179,91,OAKLAND,143.97,Sutter Health Park,14014,2025,1,0,NA,existing Minor League park; Athletics began using the park in 2025
+2004,PHI,Philadelphia Phillies,Citizens Bank Park,3250092,40125,86,PHILADELPHIA,187.31,Citizens Bank Park,43035,2004,1,0,NA,Replaced Veterans Stadium in 2004
+2004,PIT,Pittsburgh Pirates,PNC Park,1580031,19750,72,PITTSBURGH,143.31,PNC Park,38362,2001,1,0,NA,Replaced Three Rivers Stadium in 2001; only minor improvements since opening
+2004,SD,San Diego Padres,Petco Park,3016752,37244,87,SAN DIEGO,154.65,Petco Park,39860,2004,1,0,NA,Replaced San Diego Stadium in 2004
+2004,SF,San Francisco Giants,SBC Park,3256854,39718,91,SAN FRANCISCO,168.47,Oracle Park,40260,2000,0,1,2020,Bullpen relocation and center field restructuring; motivation was more player safety than fan experience; not feasible to measure direct impact on attendance since 2020 season had no fans
+2004,SEA,Seattle Mariners,Safeco Field,2940731,35863,63,SEATTLE,172.03,T-Mobile Park,47574,1999,0,0,NA,NA
+2004,STL,St. Louis Cardinals,Busch Stadium II,3048427,37635,105,ST. LOUIS,170.49,Busch Stadium,43975,2006,1,0,NA,replaced Busch Memorial Stadium in 2006
+2004,TB,Tampa Bay Devil Rays,"Tokyo Dome, Tropicana Field",1274911,15936,70,TAMPA BAY,146.8,Tropicana Field,25025,1998,0,1,2014,"major renovations in 2014; roof destroyed by hurricane in 2024, so they played at an alternate (smaller) venue in 2025"
+2004,TEX,Texas Rangers,The Ballpark in Arlington,2513685,31033,89,TEXAS,130.82,Globe Life Field,40300,2020,1,0,NA,Replaced Globe Life Park in 2020
+2004,TOR,Toronto Blue Jays,SkyDome,1900041,23457,67,TORONTO,166.51,Rogers Centre,41500,1989,0,1,2022,"$400 million two-phase renovation--reoriented seats, new outfield social spaces, reduced capacity. Also worth noting that TOR played elsewhere in 2020 and early 2021 due to COVID-related border closures"
+2003,LAA,Anaheim Angels,Edison Field,3061094,37330,77,CALIFORNIA/ANAHEIM/LA,130.21,Angel Stadium,45050,1966,0,0,NA,"Major renovation completed in 1998, just before my selected time period"
+2003,ARI,Arizona Diamondbacks,Bank One Ballpark,2805542,34636,84,ARIZONA,119.84,Chase Field,48633,1998,0,0,NA,NA
+2003,ATL,Atlanta Braves,Turner Field,2401084,29643,101,ATLANTA,154.55,Truist Park,41500,2017,1,0,NA,replaced Turner Field
+2003,BAL,Baltimore Orioles,Oriole Park at Camden Yards,2454523,30303,71,BALTIMORE,148.11,Oriole Park,45971,1992,0,1,2011,"seat replacement, suite renovation, capacity reduced"
+2003,BOS,Boston Red Sox,Fenway Park,2724165,33632,95,BOSTON,238.75,Fenway Park,37673,1912,0,1,2003,"multi-phase renovation between 2002-2011; seats added in Green Monster and roof areas, luxury boxes, overhaul of concourse"
+2003,CHC,Chicago Cubs,Wrigley Field,2962630,36576,88,CHICAGO CUBS,172.84,Wrigley Field,41649,1914,0,1,2014,1060 Project--privately funded renovation completed in phases between 2014-2019
+2003,CWS,Chicago White Sox,U.S. Cellular Field,1939524,23945,86,CHICAGO WHITE SOX,159.09,Rate Field,40615,1991,0,1,"2001, 2015","Major $118M overhaul 2001–2004 (seats, concourses, capacity cut); incremental upgrades 2015–2019"
+2003,CIN,Cincinnati Reds,Great American Ball Park,2355259,29077,69,CINCINNATI,140.52,Great American Ball Park,45814,2003,1,0,NA,replaced Cinergy Field
+2003,CLE,Cleveland Indians,Jacobs Field,1730002,21358,68,CLEVELAND,161.31,Progressive Field,34830,1994,0,1,"2014, 2023",Two separate waves of large-scale renovations
+2003,COL,Colorado Rockies,Coors Field,2334085,28816,74,COLORADO,141.34,Coors Field,50398,1995,0,0,NA,NA
+2003,DET,Detroit Tigers,Comerica Park,1368245,16892,43,DETROIT,157.44,Comerica Park,41083,2000,0,0,NA,Opened in the first year of my selected time window
+2003,MIA,Florida Marlins,Pro Player Stadium,1303215,16089,91,FLORIDA/Miami,112.38,loanDepot Park,37442,2012,1,0,NA,moved from Joe Robbie Center in 2012
+2003,HOU,Houston Astros,Minute Maid Park,2454241,30299,87,HOUSTON,165.45,Daikin Park,40963,2000,0,1,2017,"Additional seating, concessions, escalators, etc."
+2003,KC,Kansas City Royals,Kauffman Stadium,1779895,22249,83,KANSAS CITY,112.03,Kauffman Stadium,40793,1973,0,1,2009,"reduced seating capacity, new entry ticket gates, wider concourses, new concessions/restrooms, outfield kids area, right field sports bar/restaurant"
+2003,LAD,Los Angeles Dodgers,Dodger Stadium,3138626,38748,85,LOS ANGELES DODGERS,147.53,Dodger Stadium,56000,1962,0,1,2019,"$100 million renovation included new center field plaza, sports bar/restaurant, new elevators/escalators, new stadium center main entrance, etc."
+2003,MIL,Milwaukee Brewers,Miller Park,1700354,20992,68,MILWAUKEE,128.96,American Family Field,41900,2001,1,1,2024,$500 million publicly funded renovation beginning in 2024
+2003,MIN,Minnesota Twins,Hubert H. Humphrey Metrodome,1946011,24025,90,MINNESOTA,127.01,Target Field,39504,2010,1,0,NA,Moved from Metrodome in 2010
+2003,WAS,Montreal Expos,"Estadio Hiram Bithorn, Stade Olympique",1025639,12662,83,WASHINGTON,100.13,Nationals Park,41565,2008,1,0,NA,Opened 2008; replacement stadium for the team moving from Montreal
+2003,NYM,New York Mets,Shea Stadium,2140599,26757,66,N.Y. METS,182.79,Citi Field,42000,2009,1,0,NA,Replaced Shea Stadium in 2009
+2003,NYY,New York Yankees,Yankee Stadium II,3465600,42263,101,N.Y. YANKEES,182.74,Yankee Stadium,50287,2009,1,0,NA,Replaced original Yankee Stadium in 2009
+2003,ATH,Oakland Athletics,Network Associates Coliseum,2216596,27365,96,OAKLAND,139.61,Sutter Health Park,14014,2025,1,0,NA,existing Minor League park; Athletics began using the park in 2025
+2003,PHI,Philadelphia Phillies,Veterans Stadium,2259948,27901,86,PHILADELPHIA,149.28,Citizens Bank Park,43035,2004,1,0,NA,Replaced Veterans Stadium in 2004
+2003,PIT,Pittsburgh Pirates,PNC Park,1636751,20207,75,PITTSBURGH,147.13,PNC Park,38362,2001,1,0,NA,Replaced Three Rivers Stadium in 2001; only minor improvements since opening
+2003,SD,San Diego Padres,Qualcomm Stadium,2030084,25063,64,SAN DIEGO,146.42,Petco Park,39860,2004,1,0,NA,Replaced San Diego Stadium in 2004
+2003,SF,San Francisco Giants,Pacific Bell Park,3264898,40307,100,SAN FRANCISCO,178.56,Oracle Park,40260,2000,0,1,2020,Bullpen relocation and center field restructuring; motivation was more player safety than fan experience; not feasible to measure direct impact on attendance since 2020 season had no fans
+2003,SEA,Seattle Mariners,Safeco Field,3268509,40352,93,SEATTLE,175.67,T-Mobile Park,47574,1999,0,0,NA,NA
+2003,STL,St. Louis Cardinals,Busch Stadium II,2910386,35931,85,ST. LOUIS,168.95,Busch Stadium,43975,2006,1,0,NA,replaced Busch Memorial Stadium in 2006
+2003,TB,Tampa Bay Devil Rays,Tropicana Field,1058695,13070,63,TAMPA BAY,149.52,Tropicana Field,25025,1998,0,1,2014,"major renovations in 2014; roof destroyed by hurricane in 2024, so they played at an alternate (smaller) venue in 2025"
+2003,TEX,Texas Rangers,The Ballpark in Arlington,2094394,25857,71,TEXAS,139.25,Globe Life Field,40300,2020,1,0,NA,Replaced Globe Life Park in 2020
+2003,TOR,Toronto Blue Jays,SkyDome,1799458,22216,86,TORONTO,155.18,Rogers Centre,41500,1989,0,1,2022,"$400 million two-phase renovation--reoriented seats, new outfield social spaces, reduced capacity. Also worth noting that TOR played elsewhere in 2020 and early 2021 due to COVID-related border closures"
+2002,LAA,Anaheim Angels,Edison Field,2305547,28464,99,CALIFORNIA/ANAHEIM/LA,113.76,Angel Stadium,45050,1966,0,0,NA,"Major renovation completed in 1998, just before my selected time period"
+2002,ARI,Arizona Diamondbacks,Bank One Ballpark,3198977,39494,98,ARIZONA,115.17,Chase Field,48633,1998,0,0,NA,NA
+2002,ATL,Atlanta Braves,Turner Field,2603484,32142,101,ATLANTA,155.35,Truist Park,41500,2017,1,0,NA,replaced Turner Field
+2002,BAL,Baltimore Orioles,Oriole Park at Camden Yards,2682439,33117,67,BALTIMORE,141.42,Oriole Park,45971,1992,0,1,2011,"seat replacement, suite renovation, capacity reduced"
+2002,BOS,Boston Red Sox,Fenway Park,2650862,32727,93,BOSTON,228.73,Fenway Park,37673,1912,0,1,2003,"multi-phase renovation between 2002-2011; seats added in Green Monster and roof areas, luxury boxes, overhaul of concourse"
+2002,CHC,Chicago Cubs,Wrigley Field,2693096,33248,67,CHICAGO CUBS,181.69,Wrigley Field,41649,1914,0,1,2014,1060 Project--privately funded renovation completed in phases between 2014-2019
+2002,CWS,Chicago White Sox,Comiskey Park II,1676911,20703,81,CHICAGO WHITE SOX,159.09,Rate Field,40615,1991,0,1,"2001, 2015","Major $118M overhaul 2001–2004 (seats, concourses, capacity cut); incremental upgrades 2015–2019"
+2002,CIN,Cincinnati Reds,Cinergy Field,1855787,22911,78,CINCINNATI,127.14,Great American Ball Park,45814,2003,1,0,NA,replaced Cinergy Field
+2002,CLE,Cleveland Indians,Jacobs Field,2616940,32308,74,CLEVELAND,161.31,Progressive Field,34830,1994,0,1,"2014, 2023",Two separate waves of large-scale renovations
+2002,COL,Colorado Rockies,Coors Field,2737838,33800,73,COLORADO,141.34,Coors Field,50398,1995,0,0,NA,NA
+2002,DET,Detroit Tigers,Comerica Park,1503623,18795,55,DETROIT,160.76,Comerica Park,41083,2000,0,0,NA,Opened in the first year of my selected time window
+2002,MIA,Florida Marlins,Pro Player Stadium,813118,10038,79,FLORIDA/Miami,110.84,loanDepot Park,37442,2012,1,0,NA,moved from Joe Robbie Center in 2012
+2002,HOU,Houston Astros,Minute Maid Park,2517357,31078,84,HOUSTON,157.81,Daikin Park,40963,2000,0,1,2017,"Additional seating, concessions, escalators, etc."
+2002,KC,Kansas City Royals,Kauffman Stadium,1323036,16334,62,KANSAS CITY,113.7,Kauffman Stadium,40793,1973,0,1,2009,"reduced seating capacity, new entry ticket gates, wider concourses, new concessions/restrooms, outfield kids area, right field sports bar/restaurant"
+2002,LAD,Los Angeles Dodgers,Dodger Stadium,3131255,38657,92,LOS ANGELES DODGERS,145.53,Dodger Stadium,56000,1962,0,1,2019,"$100 million renovation included new center field plaza, sports bar/restaurant, new elevators/escalators, new stadium center main entrance, etc."
+2002,MIL,Milwaukee Brewers,Miller Park,1969153,24311,56,MILWAUKEE,130.76,American Family Field,41900,2001,1,1,2024,$500 million publicly funded renovation beginning in 2024
+2002,MIN,Minnesota Twins,Hubert H. Humphrey Metrodome,1924473,23759,94,MINNESOTA,121.13,Target Field,39504,2010,1,0,NA,Moved from Metrodome in 2010
+2002,WAS,Montreal Expos,Stade Olympique,812045,10025,83,WASHINGTON,84.89,Nationals Park,41565,2008,1,0,NA,Opened 2008; replacement stadium for the team moving from Montreal
+2002,NYM,New York Mets,Shea Stadium,2804838,34628,75,N.Y. METS,177.02,Citi Field,42000,2009,1,0,NA,Replaced Shea Stadium in 2009
+2002,NYY,New York Yankees,Yankee Stadium II,3465807,43323,103,N.Y. YANKEES,178.44,Yankee Stadium,50287,2009,1,0,NA,Replaced original Yankee Stadium in 2009
+2002,ATH,Oakland Athletics,Network Associates Coliseum,2169811,26788,103,OAKLAND,124.25,Sutter Health Park,14014,2025,1,0,NA,existing Minor League park; Athletics began using the park in 2025
+2002,PHI,Philadelphia Phillies,Veterans Stadium,1618467,20231,80,PHILADELPHIA,137.42,Citizens Bank Park,43035,2004,1,0,NA,Replaced Veterans Stadium in 2004
+2002,PIT,Pittsburgh Pirates,PNC Park,1784988,22312,72,PITTSBURGH,151.08,PNC Park,38362,2001,1,0,NA,Replaced Three Rivers Stadium in 2001; only minor improvements since opening
+2002,SD,San Diego Padres,Qualcomm Stadium,2220601,27415,66,SAN DIEGO,133.27,Petco Park,39860,2004,1,0,NA,Replaced San Diego Stadium in 2004
+2002,SF,San Francisco Giants,Pacific Bell Park,3253203,40163,95,SAN FRANCISCO,169.36,Oracle Park,40260,2000,0,1,2020,Bullpen relocation and center field restructuring; motivation was more player safety than fan experience; not feasible to measure direct impact on attendance since 2020 season had no fans
+2002,SEA,Seattle Mariners,Safeco Field,3542938,43740,93,SEATTLE,173.4,T-Mobile Park,47574,1999,0,0,NA,NA
+2002,STL,St. Louis Cardinals,Busch Stadium II,3011756,37182,97,ST. LOUIS,151.93,Busch Stadium,43975,2006,1,0,NA,replaced Busch Memorial Stadium in 2006
+2002,TB,Tampa Bay Devil Rays,Tropicana Field,1065742,13157,55,TAMPA BAY,138.32,Tropicana Field,25025,1998,0,1,2014,"major renovations in 2014; roof destroyed by hurricane in 2024, so they played at an alternate (smaller) venue in 2025"
+2002,TEX,Texas Rangers,The Ballpark in Arlington,2352397,29042,72,TEXAS,150.21,Globe Life Field,40300,2020,1,0,NA,Replaced Globe Life Park in 2020
+2002,TOR,Toronto Blue Jays,SkyDome,1637900,20221,78,TORONTO,121.26,Rogers Centre,41500,1989,0,1,2022,"$400 million two-phase renovation--reoriented seats, new outfield social spaces, reduced capacity. Also worth noting that TOR played elsewhere in 2020 and early 2021 due to COVID-related border closures"
+2001,LAA,Anaheim Angels,Edison Field,2000919,24703,75,CALIFORNIA/ANAHEIM/LA,110.8,Angel Stadium,45050,1966,0,0,NA,"Major renovation completed in 1998, just before my selected time period"
+2001,ARI,Arizona Diamondbacks,Bank One Ballpark,2736451,33783,92,ARIZONA,112.43,Chase Field,48633,1998,0,0,NA,NA
+2001,ATL,Atlanta Braves,Turner Field,2823530,34858,88,ATLANTA,156.08,Truist Park,41500,2017,1,0,NA,replaced Turner Field
+2001,BAL,Baltimore Orioles,Oriole Park at Camden Yards,3094841,38686,63,BALTIMORE,131.22,Oriole Park,45971,1992,0,1,2011,"seat replacement, suite renovation, capacity reduced"
+2001,BOS,Boston Red Sox,Fenway Park,2625333,32412,82,BOSTON,209.44,Fenway Park,37673,1912,0,1,2003,"multi-phase renovation between 2002-2011; seats added in Green Monster and roof areas, luxury boxes, overhaul of concourse"
+2001,CHC,Chicago Cubs,Wrigley Field,2779465,34314,88,CHICAGO CUBS,166.25,Wrigley Field,41649,1914,0,1,2014,1060 Project--privately funded renovation completed in phases between 2014-2019
+2001,CWS,Chicago White Sox,Comiskey Park II,1766172,21805,83,CHICAGO WHITE SOX,138.59,Rate Field,40615,1991,0,1,"2001, 2015","Major $118M overhaul 2001–2004 (seats, concourses, capacity cut); incremental upgrades 2015–2019"
+2001,CIN,Cincinnati Reds,Cinergy Field,1879757,23207,66,CINCINNATI,129.14,Great American Ball Park,45814,2003,1,0,NA,replaced Cinergy Field
+2001,CLE,Cleveland Indians,Jacobs Field,3175523,39694,91,CLEVELAND,150.81,Progressive Field,34830,1994,0,1,"2014, 2023",Two separate waves of large-scale renovations
+2001,COL,Colorado Rockies,Coors Field,3166821,39097,73,COLORADO,138.34,Coors Field,50398,1995,0,0,NA,NA
+2001,DET,Detroit Tigers,Comerica Park,1921305,23720,66,DETROIT,160.8,Comerica Park,41083,2000,0,0,NA,Opened in the first year of my selected time window
+2001,MIA,Florida Marlins,Pro Player Stadium,1261226,15765,76,FLORIDA/Miami,110.84,loanDepot Park,37442,2012,1,0,NA,moved from Joe Robbie Center in 2012
+2001,HOU,Houston Astros,Enron Field,2904277,35855,93,HOUSTON,143.19,Daikin Park,40963,2000,0,1,2017,"Additional seating, concessions, escalators, etc."
+2001,KC,Kansas City Royals,Kauffman Stadium,1536371,18968,65,KANSAS CITY,119.55,Kauffman Stadium,40793,1973,0,1,2009,"reduced seating capacity, new entry ticket gates, wider concourses, new concessions/restrooms, outfield kids area, right field sports bar/restaurant"
+2001,LAD,Los Angeles Dodgers,Dodger Stadium,3017143,37249,86,LOS ANGELES DODGERS,142.04,Dodger Stadium,56000,1962,0,1,2019,"$100 million renovation included new center field plaza, sports bar/restaurant, new elevators/escalators, new stadium center main entrance, etc."
+2001,MIL,Milwaukee Brewers,Miller Park,2811041,34704,68,MILWAUKEE,124.08,American Family Field,41900,2001,1,1,2024,$500 million publicly funded renovation beginning in 2024
+2001,MIN,Minnesota Twins,Hubert H. Humphrey Metrodome,1782929,22011,85,MINNESOTA,130.33,Target Field,39504,2010,1,0,NA,Moved from Metrodome in 2010
+2001,WAS,Montreal Expos,Stade Olympique,642745,7935,68,WASHINGTON,76.77,Nationals Park,41565,2008,1,0,NA,Opened 2008; replacement stadium for the team moving from Montreal
+2001,NYM,New York Mets,Shea Stadium,2658330,32819,82,N.Y. METS,175.61,Citi Field,42000,2009,1,0,NA,Replaced Shea Stadium in 2009
+2001,NYY,New York Yankees,Yankee Stadium II,3264907,40811,95,N.Y. YANKEES,178.44,Yankee Stadium,50287,2009,1,0,NA,Replaced original Yankee Stadium in 2009
+2001,ATH,Oakland Athletics,Network Associates Coliseum,2133277,26337,102,OAKLAND,120.78,Sutter Health Park,14014,2025,1,0,NA,existing Minor League park; Athletics began using the park in 2025
+2001,PHI,Philadelphia Phillies,Veterans Stadium,1782054,22001,86,PHILADELPHIA,131.2,Citizens Bank Park,43035,2004,1,0,NA,Replaced Veterans Stadium in 2004
+2001,PIT,Pittsburgh Pirates,PNC Park,2464870,30430,62,PITTSBURGH,150.05,PNC Park,38362,2001,1,0,NA,Replaced Three Rivers Stadium in 2001; only minor improvements since opening
+2001,SD,San Diego Padres,Qualcomm Stadium,2378128,29360,79,SAN DIEGO,127.46,Petco Park,39860,2004,1,0,NA,Replaced San Diego Stadium in 2004
+2001,SF,San Francisco Giants,Pacific Bell Park,3311958,40888,90,SAN FRANCISCO,163.89,Oracle Park,40260,2000,0,1,2020,Bullpen relocation and center field restructuring; motivation was more player safety than fan experience; not feasible to measure direct impact on attendance since 2020 season had no fans
+2001,SEA,Seattle Mariners,Safeco Field,3507326,43300,116,SEATTLE,180.92,T-Mobile Park,47574,1999,0,0,NA,NA
+2001,STL,St. Louis Cardinals,Busch Stadium II,3109578,37922,93,ST. LOUIS,151.93,Busch Stadium,43975,2006,1,0,NA,replaced Busch Memorial Stadium in 2006
+2001,TB,Tampa Bay Devil Rays,Tropicana Field,1298365,16029,62,TAMPA BAY,132.55,Tropicana Field,25025,1998,0,1,2014,"major renovations in 2014; roof destroyed by hurricane in 2024, so they played at an alternate (smaller) venue in 2025"
+2001,TEX,Texas Rangers,The Ballpark in Arlington,2831021,34525,73,TEXAS,150.21,Globe Life Field,40300,2020,1,0,NA,Replaced Globe Life Park in 2020
+2001,TOR,Toronto Blue Jays,"Estadio Hiram Bithorn, SkyDome",1915438,23359,80,TORONTO,114.66,Rogers Centre,41500,1989,0,1,2022,"$400 million two-phase renovation--reoriented seats, new outfield social spaces, reduced capacity. Also worth noting that TOR played elsewhere in 2020 and early 2021 due to COVID-related border closures"
+2000,LAA,Anaheim Angels,Edison Field,2066982,25518,82,CALIFORNIA/ANAHEIM/LA,117.88,Angel Stadium,45050,1966,0,0,NA,"Major renovation completed in 1998, just before my selected time period"
+2000,ARI,Arizona Diamondbacks,Bank One Ballpark,2942251,36324,85,ARIZONA,120.32,Chase Field,48633,1998,0,0,NA,NA
+2000,ATL,Atlanta Braves,Turner Field,3234304,39930,95,ATLANTA,160.12,Truist Park,41500,2017,1,0,NA,replaced Turner Field
+2000,BAL,Baltimore Orioles,Oriole Park at Camden Yards,3297031,40704,74,BALTIMORE,138.6,Oriole Park,45971,1992,0,1,2011,"seat replacement, suite renovation, capacity reduced"
+2000,BOS,Boston Red Sox,Fenway Park,2585895,31925,85,BOSTON,168.82,Fenway Park,37673,1912,0,1,2003,"multi-phase renovation between 2002-2011; seats added in Green Monster and roof areas, luxury boxes, overhaul of concourse"
+2000,CHC,Chicago Cubs,"Tokyo Dome, Wrigley Field",2789511,34438,65,CHICAGO CUBS,135.32,Wrigley Field,41649,1914,0,1,2014,1060 Project--privately funded renovation completed in phases between 2014-2019
+2000,CWS,Chicago White Sox,Comiskey Park II,1947799,24047,95,CHICAGO WHITE SOX,122.7,Rate Field,40615,1991,0,1,"2001, 2015","Major $118M overhaul 2001–2004 (seats, concourses, capacity cut); incremental upgrades 2015–2019"
+2000,CIN,Cincinnati Reds,Cinergy Field,2577371,31431,85,CINCINNATI,104.46,Great American Ball Park,45814,2003,1,0,NA,replaced Cinergy Field
+2000,CLE,Cleveland Indians,Jacobs Field,3456278,42670,90,CLEVELAND,142.82,Progressive Field,34830,1994,0,1,"2014, 2023",Two separate waves of large-scale renovations
+2000,COL,Colorado Rockies,Coors Field,3295129,40681,82,COLORADO,130.5,Coors Field,50398,1995,0,0,NA,NA
+2000,DET,Detroit Tigers,Comerica Park,2438617,30106,79,DETROIT,165.32,Comerica Park,41083,2000,0,0,NA,Opened in the first year of my selected time window
+2000,MIA,Florida Marlins,Pro Player Stadium,1218326,15041,79,FLORIDA/Miami,104.14,loanDepot Park,37442,2012,1,0,NA,moved from Joe Robbie Center in 2012
+2000,HOU,Houston Astros,Enron Field,3056139,37730,72,HOUSTON,161.76,Daikin Park,40963,2000,0,1,2017,"Additional seating, concessions, escalators, etc."
+2000,KC,Kansas City Royals,Kauffman Stadium,1564847,19319,77,KANSAS CITY,100.68,Kauffman Stadium,40793,1973,0,1,2009,"reduced seating capacity, new entry ticket gates, wider concourses, new concessions/restrooms, outfield kids area, right field sports bar/restaurant"
+2000,LAD,Los Angeles Dodgers,Dodger Stadium,2880242,35559,86,LOS ANGELES DODGERS,140.96,Dodger Stadium,56000,1962,0,1,2019,"$100 million renovation included new center field plaza, sports bar/restaurant, new elevators/escalators, new stadium center main entrance, etc."
+2000,MIL,Milwaukee Brewers,County Stadium,1573621,19427,73,MILWAUKEE,100.68,American Family Field,41900,2001,1,1,2024,$500 million publicly funded renovation beginning in 2024
+2000,MIN,Minnesota Twins,Hubert H. Humphrey Metrodome,1000760,12355,69,MINNESOTA,102.32,Target Field,39504,2010,1,0,NA,Moved from Metrodome in 2010
+2000,WAS,Montreal Expos,Stade Olympique,926272,11435,67,WASHINGTON,88.55,Nationals Park,41565,2008,1,0,NA,Opened 2008; replacement stadium for the team moving from Montreal
+2000,NYM,New York Mets,"Shea Stadium, Tokyo Dome",2820530,34821,94,N.Y. METS,175.66,Citi Field,42000,2009,1,0,NA,Replaced Shea Stadium in 2009
+2000,NYY,New York Yankees,Yankee Stadium II,3055435,38193,87,N.Y. YANKEES,174.54,Yankee Stadium,50287,2009,1,0,NA,Replaced original Yankee Stadium in 2009
+2000,ATH,Oakland Athletics,Network Associates Coliseum,1603744,19799,91,OAKLAND,94.08,Sutter Health Park,14014,2025,1,0,NA,existing Minor League park; Athletics began using the park in 2025
+2000,PHI,Philadelphia Phillies,Veterans Stadium,1612769,19911,65,PHILADELPHIA,126.86,Citizens Bank Park,43035,2004,1,0,NA,Replaced Veterans Stadium in 2004
+2000,PIT,Pittsburgh Pirates,Three Rivers Stadium,1748908,21591,69,PITTSBURGH,107.72,PNC Park,38362,2001,1,0,NA,Replaced Three Rivers Stadium in 2001; only minor improvements since opening
+2000,SD,San Diego Padres,Qualcomm Stadium,2352443,29043,76,SAN DIEGO,124.56,Petco Park,39860,2004,1,0,NA,Replaced San Diego Stadium in 2004
+2000,SF,San Francisco Giants,Pacific Bell Park,3318800,40973,97,SAN FRANCISCO,161.13,Oracle Park,40260,2000,0,1,2020,Bullpen relocation and center field restructuring; motivation was more player safety than fan experience; not feasible to measure direct impact on attendance since 2020 season had no fans
+2000,SEA,Seattle Mariners,Safeco Field,2914624,35983,91,SEATTLE,179.72,T-Mobile Park,47574,1999,0,0,NA,NA
+2000,STL,St. Louis Cardinals,Busch Stadium II,3336493,41191,95,ST. LOUIS,133.42,Busch Stadium,43975,2006,1,0,NA,replaced Busch Memorial Stadium in 2006
+2000,TB,Tampa Bay Devil Rays,Tropicana Field,1449673,18121,69,TAMPA BAY,120.64,Tropicana Field,25025,1998,0,1,2014,"major renovations in 2014; roof destroyed by hurricane in 2024, so they played at an alternate (smaller) venue in 2025"
+2000,TEX,Texas Rangers,The Ballpark in Arlington,2588401,31956,71,TEXAS,156.56,Globe Life Field,40300,2020,1,0,NA,Replaced Globe Life Park in 2020
+2000,TOR,Toronto Blue Jays,SkyDome,1705712,21058,83,TORONTO,112.33,Rogers Centre,41500,1989,0,1,2022,"$400 million two-phase renovation--reoriented seats, new outfield social spaces, reduced capacity. Also worth noting that TOR played elsewhere in 2020 and early 2021 due to COVID-related border closures"
