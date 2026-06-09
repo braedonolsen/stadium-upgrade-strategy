@@ -14,6 +14,8 @@ league_trends <- ballpark_data |>
     .by = year
   )
 
+write_csv(league_trends, file = "data/league_trends.csv")
+
 # Attendance trend
 ggplot(league_trends, aes(x = year, y = avg_attendance)) +
   geom_line() +
@@ -105,6 +107,16 @@ ballpark_data |>
     x = "Years Since Stadium Event", 
     y = "Average FCI ($)") +
   theme_minimal()
+
+fci_centralized <- ballpark_data |>
+  filter(!is.na(years_since_event),
+         !is.na(fci),
+         years_since_event >= -5,
+         years_since_event <= 10) |>
+  summarise(
+    avg_fci = mean(fci, na.rm = TRUE),
+    .by = years_since_event)
+write_csv(fci_centralized, file = "data/fci_centralized.csv")
 
 # split into attendance trends by event type (new opening vs renovation)
 ballpark_data |>
